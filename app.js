@@ -22,9 +22,16 @@ function renderCats(){
  document.querySelectorAll('.cat').forEach(x=>x.onclick=()=>openCat(x.dataset.id));
 }
 function rowsFor(id){return S.parts.filter(p=>p.catalogId===id)}
+function fitZoom(){return Math.max(.1,Math.min(3,($('viewer').clientWidth-20)/1600))}
+function setCatalogMenu(open){
+ document.body.classList.toggle('catalogs-open',open);
+ $('catalogToggle').setAttribute('aria-expanded',String(open));
+ $('sidebarBackdrop').hidden=!open;
+}
 function openCat(id,push=true){
  const c=S.cats.find(x=>x.id===id); if(!c)return;
- S.current=c; S.zoom=1;
+ setCatalogMenu(false);
+ S.current=c; S.zoom=window.innerWidth<=700?fitZoom():1;
  if(push)history.pushState({id},'',`#${encodeURIComponent(id)}`);
  renderCats();
  $('title').textContent=c.title; $('crumb').textContent=c.id;
@@ -70,11 +77,12 @@ function doSearch(){
  document.querySelector('[data-tab="search"]').click(); document.querySelectorAll('.result[data-i]').forEach(x=>x.onclick=()=>{const p=out[+x.dataset.i];openCat(p.catalogId);setTimeout(()=>showPart(p),0)});
 }
 function filterCats(v){const q=norm(v);S.filteredCats=S.cats.filter(c=>norm(`${c.id} ${c.title}`).includes(q));renderCats()}
-function reset(){S.current=null;history.pushState({},'',location.pathname+location.search);$('q').value='';$('catFilter').value='';S.filteredCats=S.cats;renderCats();$('title').textContent='Select a catalog';$('crumb').textContent='All Catalogs';$('stats').textContent='';$('parts').innerHTML='';$('partCount').textContent='';$('imgName').textContent='';$('viewer').innerHTML='<div class="empty"><div class="emptyIcon">▧</div><b>Select a catalog</b><span>Choose a catalog from the left panel to view its exploded diagram.</span></div>'}
+function reset(){setCatalogMenu(false);S.current=null;history.pushState({},'',location.pathname+location.search);$('q').value='';$('catFilter').value='';S.filteredCats=S.cats;renderCats();$('title').textContent='Select a catalog';$('crumb').textContent='All Catalogs';$('stats').textContent='';$('parts').innerHTML='';$('partCount').textContent='';$('imgName').textContent='';$('viewer').innerHTML='<div class="empty"><div class="emptyIcon">▧</div><b>Select a catalog</b><span>Choose a catalog from the left panel to view its exploded diagram.</span></div>'}
 
+$('catalogToggle').onclick=()=>setCatalogMenu(!document.body.classList.contains('catalogs-open'));$('sidebarBackdrop').onclick=()=>setCatalogMenu(false);document.addEventListener('keydown',e=>{if(e.key==='Escape')setCatalogMenu(false)});window.addEventListener('resize',()=>{if(window.innerWidth>700)setCatalogMenu(false)});
 document.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>{document.querySelectorAll('.tabs button').forEach(x=>x.classList.remove('active'));b.classList.add('active');$('partsPanel').hidden=b.dataset.tab!=='parts';$('searchPanel').hidden=b.dataset.tab!=='search'});
 $('searchBtn').onclick=doSearch;$('q').onkeydown=e=>{if(e.key==='Enter')doSearch()};$('q').addEventListener('input',debounce(doSearch,220));$('clearSearch').onclick=()=>{$('q').value='';$('results').innerHTML='<div class="searchHint">Enter a part number, description, position, or catalog code.</div>';$('resultCount').textContent='';document.querySelector('[data-tab="parts"]').click()};$('catFilter').addEventListener('input',debounce(e=>filterCats(e.target.value),150));$('resetBtn').onclick=reset;$('back').onclick=()=>{const id=decodeURIComponent(location.hash.slice(1));if(id)history.back();else reset()};
-$('zoomIn').onclick=()=>setZoom(S.zoom+.1);$('zoomOut').onclick=()=>setZoom(S.zoom-.1);$('zoomFit').onclick=()=>setZoom(1);
+$('zoomIn').onclick=()=>setZoom(S.zoom+.1);$('zoomOut').onclick=()=>setZoom(S.zoom-.1);$('zoomFit').onclick=()=>setZoom(fitZoom());
 $('themeBtn').onclick=()=>{document.body.classList.toggle('dark');localStorage.setItem('pb-dark',document.body.classList.contains('dark')?'1':'0')};if(localStorage.getItem('pb-dark')==='1')document.body.classList.add('dark');
 $('close').onclick=()=>$('modal').hidden=true;$('modal').onclick=e=>{if(e.target.id==='modal')$('modal').hidden=true};$('aboutBtn').onclick=()=>$('about').hidden=false;$('aboutClose').onclick=()=>$('about').hidden=true;$('about').onclick=e=>{if(e.target.id==='about')$('about').hidden=true};
 $('copyPart').onclick=async()=>{const v=$('copyPart').dataset.value;if(v){try{await navigator.clipboard.writeText(v);$('copyPart').textContent='Copied ✓';setTimeout(()=>$('copyPart').textContent='Copy Part Number',1200)}catch{$('copyPart').textContent=v}}};
