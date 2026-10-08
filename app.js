@@ -38,10 +38,10 @@ function draw(){
  const im=S.imgs[S.current.id];
  if(!im){$('viewer').innerHTML='<div class="empty"><b>No diagram</b><span>No diagram image is registered for this catalog.</span></div>';return}
  const web=im.replace(/\.(tif|tiff)$/i,'.jpg'); const meta=S.meta[im]||{width:3500,height:2500};
+ S.imageHeight=Math.round(1600*meta.height/meta.width);
  $('imgName').textContent=`${im} · ${meta.width}×${meta.height}`;
  $('viewer').innerHTML=`<div class="canvas" id="canvas"><img id="diagram" src="images/${encodeURIComponent(web)}" alt="${esc(S.current.title)}"><div id="hots"></div></div>`;
  applyZoom(); const image=$('diagram');
- image.style.width='1600px'; image.style.height=`${Math.round(1600*meta.height/meta.width)}px`;
  image.onload=()=>{
   const hs=S.hot[im]||[]; const layer=$('hots'); layer.innerHTML=hs.map(h=>{
    const l=+h.left,t=+h.top,r=+h.right,b=+h.bottom;
@@ -57,8 +57,8 @@ function handleHotspot(type,text){
  if(p){showPart(p);return}
  if(type==='G'){$('q').value=text;doSearch()}
 }
-function applyZoom(){const c=$('canvas');if(!c)return;c.style.transform=`scale(${S.zoom})`;c.style.transformOrigin='top left';$('zoomPct').textContent=Math.round(S.zoom*100)+'%';}
-function setZoom(v){S.zoom=Math.max(.25,Math.min(3,v));applyZoom()}
+function applyZoom(){const image=$('diagram');if(image){image.style.width=`${1600*S.zoom}px`;image.style.height=`${Math.round(S.imageHeight*S.zoom)}px`;}$('zoomPct').textContent=Math.round(S.zoom*100)+'%';}
+function setZoom(v){S.zoom=Math.max(.1,Math.min(3,v));applyZoom()}
 function showPart(p){
  $('mPart').textContent=p.partNumber||'—';$('mDesc').textContent=p.description||'No description';$('mPos').textContent=p.pos||'—';$('mQty').textContent=p.qty||'—';$('mCat').textContent=p.catalogId||'—';$('copyPart').dataset.value=p.partNumber||'';$('modal').hidden=false;
 }
@@ -74,7 +74,7 @@ function reset(){S.current=null;history.pushState({},'',location.pathname+locati
 
 document.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>{document.querySelectorAll('.tabs button').forEach(x=>x.classList.remove('active'));b.classList.add('active');$('partsPanel').hidden=b.dataset.tab!=='parts';$('searchPanel').hidden=b.dataset.tab!=='search'});
 $('searchBtn').onclick=doSearch;$('q').onkeydown=e=>{if(e.key==='Enter')doSearch()};$('q').addEventListener('input',debounce(doSearch,220));$('clearSearch').onclick=()=>{$('q').value='';$('results').innerHTML='<div class="searchHint">Enter a part number, description, position, or catalog code.</div>';$('resultCount').textContent='';document.querySelector('[data-tab="parts"]').click()};$('catFilter').addEventListener('input',debounce(e=>filterCats(e.target.value),150));$('resetBtn').onclick=reset;$('back').onclick=()=>{const id=decodeURIComponent(location.hash.slice(1));if(id)history.back();else reset()};
-$('zoomIn').onclick=()=>setZoom(S.zoom+.25);$('zoomOut').onclick=()=>setZoom(S.zoom-.25);$('zoomFit').onclick=()=>setZoom(1);
+$('zoomIn').onclick=()=>setZoom(S.zoom+.1);$('zoomOut').onclick=()=>setZoom(S.zoom-.1);$('zoomFit').onclick=()=>setZoom(1);
 $('themeBtn').onclick=()=>{document.body.classList.toggle('dark');localStorage.setItem('pb-dark',document.body.classList.contains('dark')?'1':'0')};if(localStorage.getItem('pb-dark')==='1')document.body.classList.add('dark');
 $('close').onclick=()=>$('modal').hidden=true;$('modal').onclick=e=>{if(e.target.id==='modal')$('modal').hidden=true};$('aboutBtn').onclick=()=>$('about').hidden=false;$('aboutClose').onclick=()=>$('about').hidden=true;$('about').onclick=e=>{if(e.target.id==='about')$('about').hidden=true};
 $('copyPart').onclick=async()=>{const v=$('copyPart').dataset.value;if(v){try{await navigator.clipboard.writeText(v);$('copyPart').textContent='Copied ✓';setTimeout(()=>$('copyPart').textContent='Copy Part Number',1200)}catch{$('copyPart').textContent=v}}};
