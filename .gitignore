@@ -1,0 +1,38 @@
+# Windows / OS files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local development / temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+npm-debug.log*
+
+# Archives and generated packages
+*.zip
+*.7z
+*.rar
+
+# Local server / preview artifacts
+node_modules/
+dist/
+build/
+coverage/
+
+# Keep the actual PartBook assets tracked:
+# data/*.json
+# images/*.jpg
