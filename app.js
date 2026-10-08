@@ -80,6 +80,58 @@ function filterCats(v){const q=norm(v);S.filteredCats=S.cats.filter(c=>norm(`${c
 function reset(){setCatalogMenu(false);S.current=null;history.pushState({},'',location.pathname+location.search);$('q').value='';$('catFilter').value='';S.filteredCats=S.cats;renderCats();$('title').textContent='Select a catalog';$('crumb').textContent='All Catalogs';$('stats').textContent='';$('parts').innerHTML='';$('partCount').textContent='';$('imgName').textContent='';$('viewer').innerHTML='<div class="empty"><div class="emptyIcon">▧</div><b>Select a catalog</b><span>Choose a catalog from the left panel to view its exploded diagram.</span></div>'}
 
 $('catalogToggle').onclick=()=>setCatalogMenu(!document.body.classList.contains('catalogs-open'));$('sidebarBackdrop').onclick=()=>setCatalogMenu(false);document.addEventListener('keydown',e=>{if(e.key==='Escape')setCatalogMenu(false)});window.addEventListener('resize',()=>{if(window.innerWidth>700)setCatalogMenu(false)});
+const viewerPointers=new Map();let pinchGesture=null,panPointer=null;
+$('viewer').addEventListener('pointerdown',e=>{
+ if(e.pointerType!=='touch')return;
+ viewerPointers.set(e.pointerId,{x:e.clientX,y:e.clientY});
+ if(e.isTrusted)$('viewer').setPointerCapture(e.pointerId);
+ if(viewerPointers.size===2){
+  const [a,b]=viewerPointers.values(),image=$('diagram'),viewer=$('viewer');
+  if(!image)return;
+  const rect=image.getBoundingClientRect(),viewerRect=viewer.getBoundingClientRect();
+  const midX=(a.x+b.x)/2,midY=(a.y+b.y)/2;
+  pinchGesture={
+   distance:Math.hypot(a.x-b.x,a.y-b.y),
+   zoom:S.zoom,
+   anchorX:(midX-rect.left)/S.zoom,
+   anchorY:(midY-rect.top)/S.zoom,
+   originX:rect.left-viewerRect.left-viewer.clientLeft+viewer.scrollLeft,
+   originY:rect.top-viewerRect.top-viewer.clientTop+viewer.scrollTop
+  };
+  panPointer=null;
+ }else if(viewerPointers.size===1){
+  panPointer={x:e.clientX,y:e.clientY};
+ }
+});
+$('viewer').addEventListener('pointermove',e=>{
+ if(!viewerPointers.has(e.pointerId))return;
+ viewerPointers.set(e.pointerId,{x:e.clientX,y:e.clientY});
+ const viewer=$('viewer');
+ if(viewerPointers.size>=2&&pinchGesture){
+  e.preventDefault();
+  const [a,b]=viewerPointers.values(),distance=Math.hypot(a.x-b.x,a.y-b.y);
+  const midX=(a.x+b.x)/2,midY=(a.y+b.y)/2;
+  setZoom(pinchGesture.zoom*distance/pinchGesture.distance);
+  const viewerRect=viewer.getBoundingClientRect();
+  viewer.scrollLeft=pinchGesture.originX+pinchGesture.anchorX*S.zoom-(midX-viewerRect.left-viewer.clientLeft);
+  viewer.scrollTop=pinchGesture.originY+pinchGesture.anchorY*S.zoom-(midY-viewerRect.top-viewer.clientTop);
+ }else if(viewerPointers.size===1&&panPointer){
+  e.preventDefault();
+  viewer.scrollLeft-=e.clientX-panPointer.x;
+  viewer.scrollTop-=e.clientY-panPointer.y;
+  panPointer={x:e.clientX,y:e.clientY};
+ }
+});
+function finishViewerPointer(e){
+ viewerPointers.delete(e.pointerId);
+ if(viewerPointers.size<2)pinchGesture=null;
+ if(viewerPointers.size===1){
+  const remaining=viewerPointers.values().next().value;
+  panPointer={x:remaining.x,y:remaining.y};
+ }else panPointer=null;
+}
+$('viewer').addEventListener('pointerup',finishViewerPointer);
+$('viewer').addEventListener('pointercancel',finishViewerPointer);
 document.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>{document.querySelectorAll('.tabs button').forEach(x=>x.classList.remove('active'));b.classList.add('active');$('partsPanel').hidden=b.dataset.tab!=='parts';$('searchPanel').hidden=b.dataset.tab!=='search'});
 $('searchBtn').onclick=doSearch;$('q').onkeydown=e=>{if(e.key==='Enter')doSearch()};$('q').addEventListener('input',debounce(doSearch,220));$('clearSearch').onclick=()=>{$('q').value='';$('results').innerHTML='<div class="searchHint">Enter a part number, description, position, or catalog code.</div>';$('resultCount').textContent='';document.querySelector('[data-tab="parts"]').click()};$('catFilter').addEventListener('input',debounce(e=>filterCats(e.target.value),150));$('resetBtn').onclick=reset;$('back').onclick=()=>{const id=decodeURIComponent(location.hash.slice(1));if(id)history.back();else reset()};
 $('zoomIn').onclick=()=>setZoom(S.zoom+.1);$('zoomOut').onclick=()=>setZoom(S.zoom-.1);$('zoomFit').onclick=()=>setZoom(fitZoom());
