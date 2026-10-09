@@ -1,857 +1,1370 @@
 [
   {
-    "catalog": "MAC25*69557884",
-    "image": "MAC25.TIF",
-    "sheet": "00001"
+      "catalog":  "MAC25*69557884",
+      "image":  "MAC25.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "MAC25.jpg"
+  },
+  {
+      "catalog":  "T177667",
+      "image":  "T177667A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T177667A.jpg"
+  },
+  {
+      "catalog":  "PLMXA1057Q",
+      "image":  "PLMXA1057P.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA1057P.jpg"
+  },
+  {
+      "catalog":  "T156410",
+      "image":  "T1564100.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T1564100.jpg"
+  },
+  {
+      "catalog":  "PLMXA1081D",
+      "image":  "PLMXA1081D.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA1081D.jpg"
+  },
+  {
+      "catalog":  "PLMXA1082D",
+      "image":  "PLMXA1082D.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA1082D.jpg"
+  },
+  {
+      "catalog":  "PLMXA8036C",
+      "image":  "PLMXA8036C.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA8036C.jpg"
+  },
+  {
+      "catalog":  "PLMXA8188C",
+      "image":  "PLMXA8188C.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PLMXA8188C.jpg"
+  },
+  {
+      "catalog":  "T131354A",
+      "image":  "T131354A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T131354A.jpg"
+  },
+  {
+      "catalog":  "T167725A",
+      "image":  "T167725A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T167725A.jpg"
+  },
+  {
+      "catalog":  "T131357A",
+      "image":  "T131357A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T131357A.jpg"
+  },
+  {
+      "catalog":  "T131768C",
+      "image":  "T131768C.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T131768C.jpg"
+  },
+  {
+      "catalog":  "T138394F",
+      "image":  "T138394F.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T138394F.jpg"
   },
   {
-    "catalog": "T177667",
-    "image": "T177667A.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA1059P",
+      "image":  "PLMXA1059P.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA1059P.jpg"
   },
   {
-    "catalog": "PLMXA1057Q",
-    "image": "PLMXA1057P.TIF",
-    "sheet": "00001"
+      "catalog":  "T137361C",
+      "image":  "T137361C.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T137361C.jpg"
   },
   {
-    "catalog": "T156410",
-    "image": "T1564100.TIF",
-    "sheet": "00001"
+      "catalog":  "T147343C",
+      "image":  "T147343C.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T147343C.jpg"
   },
   {
-    "catalog": "PLMXA1081D",
-    "image": "PLMXA1081D.TIF",
-    "sheet": "00001"
+      "catalog":  "T138459F",
+      "image":  "T138459F_Sheet 2.TIF",
+      "sheet":  "00002",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T138459F_Sheet 2.jpg"
   },
   {
-    "catalog": "PLMXA1082D",
-    "image": "PLMXA1082D.TIF",
-    "sheet": "00001"
+      "catalog":  "T138764B",
+      "image":  "T138764B.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T138764B.jpg"
   },
   {
-    "catalog": "PLMXA8036C",
-    "image": "PLMXA8036C.TIF",
-    "sheet": "00001"
+      "catalog":  "T140170B",
+      "image":  "T140170B.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T140170B.jpg"
   },
   {
-    "catalog": "PLMXA8188C",
-    "image": "PLMXA8188C.TIF",
-    "sheet": "00001"
+      "catalog":  "T150306A",
+      "image":  "T150306A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T150306A.jpg"
   },
   {
-    "catalog": "T131354A",
-    "image": "T131354A.TIF",
-    "sheet": "00001"
+      "catalog":  "T151027A",
+      "image":  "T151027A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T151027A.jpg"
   },
   {
-    "catalog": "T167725A",
-    "image": "T167725A.TIF",
-    "sheet": "00001"
+      "catalog":  "T177668",
+      "image":  "T177668A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T177668A.jpg"
   },
   {
-    "catalog": "T131357A",
-    "image": "T131357A.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA2021E",
+      "image":  "PLMXA2021E.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA2021E.jpg"
   },
   {
-    "catalog": "T131768C",
-    "image": "T131768C.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA2023K",
+      "image":  "PLMXA2023K.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA2023K.jpg"
   },
   {
-    "catalog": "T138394F",
-    "image": "T138394F.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA2026V",
+      "image":  "PLMXA2026V.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA2026V.jpg"
   },
   {
-    "catalog": "PLMXA1059P",
-    "image": "PLMXA1059P.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA7036B",
+      "image":  "PLMXA7036B.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PLMXA7036B.jpg"
   },
   {
-    "catalog": "T137361C",
-    "image": "T137361C.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA2027O",
+      "image":  "PLMXA2027O.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA2027O.jpg"
   },
   {
-    "catalog": "T147343C",
-    "image": "T147343C.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA2028I",
+      "image":  "PLMXA2028I.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA2028I.jpg"
   },
   {
-    "catalog": "T138459F",
-    "image": "T138459F_Sheet 2.TIF",
-    "sheet": "00002"
+      "catalog":  "T143132A",
+      "image":  "T143132A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T143132A.jpg"
   },
   {
-    "catalog": "T138764B",
-    "image": "T138764B.TIF",
-    "sheet": "00001"
+      "catalog":  "T143129A",
+      "image":  "T143129A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T143129A.jpg"
   },
   {
-    "catalog": "T140170B",
-    "image": "T140170B.TIF",
-    "sheet": "00001"
+      "catalog":  "T154680I",
+      "image":  "T154680I.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T154680I.jpg"
   },
   {
-    "catalog": "T150306A",
-    "image": "T150306A.TIF",
-    "sheet": "00001"
+      "catalog":  "T167697C",
+      "image":  "T167697C.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T167697C.jpg"
   },
   {
-    "catalog": "T151027A",
-    "image": "T151027A.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA3035",
+      "image":  "PLMXA3035D.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA3035D.jpg"
   },
   {
-    "catalog": "T177668",
-    "image": "T177668A.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA3007D",
+      "image":  "PLMXA3007D.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA3007D.jpg"
   },
   {
-    "catalog": "PLMXA2021E",
-    "image": "PLMXA2021E.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA3010A",
+      "image":  "PLMXA3010A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PLMXA3010A.jpg"
   },
   {
-    "catalog": "PLMXA2023K",
-    "image": "PLMXA2023K.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA3016F",
+      "image":  "PLMXA3016F.TIF",
+      "sheet":  "00001",
+      "width":  19872,
+      "height":  14032,
+      "webImage":  "PLMXA3016F.jpg"
   },
   {
-    "catalog": "PLMXA2026V",
-    "image": "PLMXA2026V.TIF",
-    "sheet": "00001"
+      "catalog":  "T163893A",
+      "image":  "T163893A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T163893A.jpg"
   },
   {
-    "catalog": "PLMXA7036B",
-    "image": "PLMXA7036B.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA3037K",
+      "image":  "PLMXA3037K.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA3037K.jpg"
   },
   {
-    "catalog": "PLMXA2027O",
-    "image": "PLMXA2027O.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA3038J",
+      "image":  "PLMXA3038J.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA3038J.jpg"
   },
   {
-    "catalog": "PLMXA2028I",
-    "image": "PLMXA2028I.TIF",
-    "sheet": "00001"
+      "catalog":  "PL16A3069A",
+      "image":  "PL16A3069A.TIF",
+      "sheet":  "00001",
+      "width":  9952,
+      "height":  14032,
+      "webImage":  "PL16A3069A.jpg"
   },
   {
-    "catalog": "T143132A",
-    "image": "T143132A.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA3039I",
+      "image":  "PLMXA3039I.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA3039I.jpg"
   },
   {
-    "catalog": "T143129A",
-    "image": "T143129A.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA3042C",
+      "image":  "PLMXA3042C.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PLMXA3042C.jpg"
   },
   {
-    "catalog": "T154680I",
-    "image": "T154680I.TIF",
-    "sheet": "00001"
+      "catalog":  "T137360D",
+      "image":  "T137360D.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T137360D.jpg"
   },
   {
-    "catalog": "T167697C",
-    "image": "T167697C.TIF",
-    "sheet": "00001"
+      "catalog":  "T128702A",
+      "image":  "T128702A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T128702A.jpg"
   },
   {
-    "catalog": "PLMXA3035",
-    "image": "PLMXA3035D.TIF",
-    "sheet": "00001"
+      "catalog":  "SW45 FIXING",
+      "image":  "SW45 Fixing.tif",
+      "sheet":  "1",
+      "width":  1924,
+      "height":  1924,
+      "webImage":  "SW45 Fixing.jpg"
   },
   {
-    "catalog": "PLMXA3007D",
-    "image": "PLMXA3007D.TIF",
-    "sheet": "00001"
+      "catalog":  "SW45 CABLE PRESS",
+      "image":  "SW45 Cable Press.tif",
+      "sheet":  "1",
+      "width":  2019,
+      "height":  1630,
+      "webImage":  "SW45 Cable Press.jpg"
   },
   {
-    "catalog": "PLMXA3010A",
-    "image": "PLMXA3010A.TIF",
-    "sheet": "00001"
+      "catalog":  "T185887A",
+      "image":  "T185887A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T185887A.jpg"
   },
   {
-    "catalog": "PLMXA3016F",
-    "image": "PLMXA3016F.TIF",
-    "sheet": "00001"
+      "catalog":  "PL16A3067A",
+      "image":  "PL16A3067A.TIF",
+      "sheet":  "1",
+      "width":  9952,
+      "height":  14032,
+      "webImage":  "PL16A3067A.jpg"
   },
   {
-    "catalog": "T163893A",
-    "image": "T163893A.TIF",
-    "sheet": "00001"
+      "catalog":  "T156337B",
+      "image":  "T156337B.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T156337B.jpg"
   },
   {
-    "catalog": "PLMXA3037K",
-    "image": "PLMXA3037K.TIF",
-    "sheet": "00001"
+      "catalog":  "T177670",
+      "image":  "T177670C.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T177670C.jpg"
   },
   {
-    "catalog": "PLMXA3038J",
-    "image": "PLMXA3038J.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA4003K",
+      "image":  "PLMXA4003K.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA4003K.jpg"
   },
   {
-    "catalog": "PL16A3069A",
-    "image": "PL16A3069A.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA4005E",
+      "image":  "PLMXA4005E.TIF",
+      "sheet":  "00001",
+      "width":  9952,
+      "height":  14032,
+      "webImage":  "PLMXA4005E.jpg"
   },
   {
-    "catalog": "PLMXA3039I",
-    "image": "PLMXA3039I.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA4033F",
+      "image":  "PLMXA4033F.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA4033F.jpg"
   },
   {
-    "catalog": "PLMXA3042C",
-    "image": "PLMXA3042C.TIF",
-    "sheet": "00001"
+      "catalog":  "MXA4032D",
+      "image":  "MXA4032D_Sheet 2.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "MXA4032D_Sheet 2.jpg"
   },
   {
-    "catalog": "T137360D",
-    "image": "T137360D.TIF",
-    "sheet": "00001"
+      "catalog":  "MXA4040C",
+      "image":  "MXA4040C_Sheet 2.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "MXA4040C_Sheet 2.jpg"
   },
   {
-    "catalog": "T128702A",
-    "image": "T128702A.TIF",
-    "sheet": "00001"
+      "catalog":  "MXA4041D",
+      "image":  "MXA4041D.tif",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "MXA4041D.jpg"
   },
   {
-    "catalog": "SW45 FIXING",
-    "image": "SW45 Fixing.tif",
-    "sheet": "1"
+      "catalog":  "MXA4042C",
+      "image":  "MXA4042C_Sheet 2.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "MXA4042C_Sheet 2.jpg"
   },
   {
-    "catalog": "SW45 CABLE PRESS",
-    "image": "SW45 Cable Press.tif",
-    "sheet": "1"
+      "catalog":  "PLMXA4036G",
+      "image":  "PLMXA4036G.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA4036G.jpg"
   },
   {
-    "catalog": "T185887A",
-    "image": "T185887A.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA4044F",
+      "image":  "PLMXA4044F.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PLMXA4044F.jpg"
   },
   {
-    "catalog": "PL16A3067A",
-    "image": "PL16A3067A.TIF",
-    "sheet": "1"
+      "catalog":  "PLMXA4045C",
+      "image":  "PLMXA4045C.TIF",
+      "sheet":  "00001",
+      "width":  19872,
+      "height":  14032,
+      "webImage":  "PLMXA4045C.jpg"
   },
   {
-    "catalog": "T156337B",
-    "image": "T156337B.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA8175D",
+      "image":  "PLMXA8175D.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA8175D.jpg"
   },
   {
-    "catalog": "T177670",
-    "image": "T177670C.TIF",
-    "sheet": "00001"
+      "catalog":  "PL16C4017C",
+      "image":  "PL16C4017C.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PL16C4017C.jpg"
   },
   {
-    "catalog": "PLMXA4003K",
-    "image": "PLMXA4003K.TIF",
-    "sheet": "00001"
+      "catalog":  "PP2150000",
+      "image":  "MXS4059A.TIF",
+      "sheet":  "1",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "MXS4059A.jpg"
   },
   {
-    "catalog": "PLMXA4005E",
-    "image": "PLMXA4005E.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXS4060-",
+      "image":  "MXS4060-.TIF",
+      "sheet":  "1",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "MXS4060-.jpg"
   },
   {
-    "catalog": "PLMXA4033F",
-    "image": "PLMXA4033F.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXS4061-",
+      "image":  "MXS4061-.TIF",
+      "sheet":  "1",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "MXS4061-.jpg"
   },
   {
-    "catalog": "MXA4032D",
-    "image": "MXA4032D_Sheet 2.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXS4062-",
+      "image":  "MXS4062-.TIF",
+      "sheet":  "1",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "MXS4062-.jpg"
   },
   {
-    "catalog": "MXA4040C",
-    "image": "MXA4040C_Sheet 2.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXS4063-",
+      "image":  "MXS4063-.TIF",
+      "sheet":  "1",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "MXS4063-.jpg"
   },
   {
-    "catalog": "MXA4041D",
-    "image": "MXA4041D.tif",
-    "sheet": "00001"
+      "catalog":  "PLMXS4064-",
+      "image":  "MXS4064-.TIF",
+      "sheet":  "1",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "MXS4064-.jpg"
   },
   {
-    "catalog": "MXA4042C",
-    "image": "MXA4042C_Sheet 2.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXS4065-",
+      "image":  "MXS4065-.TIF",
+      "sheet":  "1",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "MXS4065-.jpg"
   },
   {
-    "catalog": "PLMXA4036G",
-    "image": "PLMXA4036G.TIF",
-    "sheet": "00001"
+      "catalog":  "T177687",
+      "image":  "T177687.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T177687.jpg"
   },
   {
-    "catalog": "PLMXA4044F",
-    "image": "PLMXA4044F.TIF",
-    "sheet": "00001"
+      "catalog":  "T185951B",
+      "image":  "T185951B.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T185951B.jpg"
   },
   {
-    "catalog": "PLMXA4045C",
-    "image": "PLMXA4045C.TIF",
-    "sheet": "00001"
+      "catalog":  "T185952B",
+      "image":  "T185952B.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T185952B.jpg"
   },
   {
-    "catalog": "PLMXA8175D",
-    "image": "PLMXA8175D.TIF",
-    "sheet": "00001"
+      "catalog":  "PL20A4015B",
+      "image":  "PL20A4015B.TIF",
+      "sheet":  "00001",
+      "width":  9952,
+      "height":  14032,
+      "webImage":  "PL20A4015B.jpg"
   },
   {
-    "catalog": "PL16C4017C",
-    "image": "PL16C4017C.TIF",
-    "sheet": "00001"
+      "catalog":  "T191276A",
+      "image":  "T191276A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T191276A.jpg"
   },
   {
-    "catalog": "PP2150000",
-    "image": "MXS4059A.TIF",
-    "sheet": "1"
+      "catalog":  "T134999",
+      "image":  "CD000414A(1).TIF",
+      "sheet":  "00001",
+      "width":  19872,
+      "height":  14032,
+      "webImage":  "CD000414A(1).jpg"
   },
   {
-    "catalog": "PLMXS4060-",
-    "image": "MXS4060-.TIF",
-    "sheet": "1"
+      "catalog":  "T191277A",
+      "image":  "T191277A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T191277A.jpg"
   },
   {
-    "catalog": "PLMXS4061-",
-    "image": "MXS4061-.TIF",
-    "sheet": "1"
+      "catalog":  "PL16C3141A",
+      "image":  "PL16C3141A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PL16C3141A.jpg"
   },
   {
-    "catalog": "PLMXS4062-",
-    "image": "MXS4062-.TIF",
-    "sheet": "1"
+      "catalog":  "T130565A",
+      "image":  "T130565A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T130565A.jpg"
   },
   {
-    "catalog": "PLMXS4063-",
-    "image": "MXS4063-.TIF",
-    "sheet": "1"
+      "catalog":  "T191850",
+      "image":  "T191850A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T191850A.jpg"
   },
   {
-    "catalog": "PLMXS4064-",
-    "image": "MXS4064-.TIF",
-    "sheet": "1"
+      "catalog":  "T191250C",
+      "image":  "T191250C.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T191250C.jpg"
   },
   {
-    "catalog": "PLMXS4065-",
-    "image": "MXS4065-.TIF",
-    "sheet": "1"
+      "catalog":  "PLMXA5007C",
+      "image":  "PLMXA5007C.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PLMXA5007C.jpg"
   },
   {
-    "catalog": "T177687",
-    "image": "T177687.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA5010C",
+      "image":  "PLMXA5010C.TIF",
+      "sheet":  "00001",
+      "width":  9952,
+      "height":  14032,
+      "webImage":  "PLMXA5010C.jpg"
   },
   {
-    "catalog": "T185951B",
-    "image": "T185951B.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA5033C",
+      "image":  "PLMXA5033C.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PLMXA5033C.jpg"
   },
   {
-    "catalog": "T185952B",
-    "image": "T185952B.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA5042D",
+      "image":  "PLMXA5042D.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PLMXA5042D.jpg"
   },
   {
-    "catalog": "PL20A4015B",
-    "image": "PL20A4015B.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA5043C",
+      "image":  "PLMXA5043C.TIF",
+      "sheet":  "00001",
+      "width":  9952,
+      "height":  14032,
+      "webImage":  "PLMXA5043C.jpg"
   },
   {
-    "catalog": "T191276A",
-    "image": "T191276A.TIF",
-    "sheet": "00001"
+      "catalog":  "T181744A",
+      "image":  "T181744A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T181744A.jpg"
   },
   {
-    "catalog": "T134999",
-    "image": "CD000414A(1).TIF",
-    "sheet": "00001"
+      "catalog":  "T191248B",
+      "image":  "T191248B.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T191248B.jpg"
   },
   {
-    "catalog": "T191277A",
-    "image": "T191277A.TIF",
-    "sheet": "00001"
+      "catalog":  "T191249A",
+      "image":  "T191249A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T191249A.jpg"
   },
   {
-    "catalog": "PL16C3141A",
-    "image": "PL16C3141A.TIF",
-    "sheet": "00001"
+      "catalog":  "T191251B",
+      "image":  "T191251B.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T191251B.jpg"
   },
   {
-    "catalog": "T130565A",
-    "image": "T130565A.TIF",
-    "sheet": "00001"
+      "catalog":  "T191252B",
+      "image":  "T191252B.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T191252B.jpg"
   },
   {
-    "catalog": "T191850",
-    "image": "T191850A.TIF",
-    "sheet": "00001"
+      "catalog":  "T191253A",
+      "image":  "T191253A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T191253A.jpg"
   },
   {
-    "catalog": "T191250C",
-    "image": "T191250C.TIF",
-    "sheet": "00001"
+      "catalog":  "T191255A",
+      "image":  "T191255A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T191255A.jpg"
   },
   {
-    "catalog": "PLMXA5007C",
-    "image": "PLMXA5007C.TIF",
-    "sheet": "00001"
+      "catalog":  "T191256A",
+      "image":  "T191256A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T191256A.jpg"
   },
   {
-    "catalog": "PLMXA5010C",
-    "image": "PLMXA5010C.TIF",
-    "sheet": "00001"
+      "catalog":  "T191257A",
+      "image":  "T191257A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T191257A.jpg"
   },
   {
-    "catalog": "PLMXA5033C",
-    "image": "PLMXA5033C.TIF",
-    "sheet": "00001"
+      "catalog":  "T191258C",
+      "image":  "T191258C.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T191258C.jpg"
   },
   {
-    "catalog": "PLMXA5042D",
-    "image": "PLMXA5042D.TIF",
-    "sheet": "00001"
+      "catalog":  "T191259C",
+      "image":  "T191259C.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T191259C.jpg"
   },
   {
-    "catalog": "PLMXA5043C",
-    "image": "PLMXA5043C.TIF",
-    "sheet": "00001"
+      "catalog":  "T191260A",
+      "image":  "T191260A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T191260A.jpg"
   },
   {
-    "catalog": "T181744A",
-    "image": "T181744A.TIF",
-    "sheet": "00001"
+      "catalog":  "T177672",
+      "image":  "T177672A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T177672A.jpg"
   },
   {
-    "catalog": "T191248B",
-    "image": "T191248B.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA6052E",
+      "image":  "PLMXA6052E.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA6052E.jpg"
   },
   {
-    "catalog": "T191249A",
-    "image": "T191249A.TIF",
-    "sheet": "00001"
+      "catalog":  "T138354A",
+      "image":  "CD029649A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "CD029649A.jpg"
   },
   {
-    "catalog": "T191251B",
-    "image": "T191251B.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA6053",
+      "image":  "PLMXA6053.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA6053.jpg"
   },
   {
-    "catalog": "T191252B",
-    "image": "T191252B.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA6064F",
+      "image":  "PLMXA6064F.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA6064F.jpg"
   },
   {
-    "catalog": "T191253A",
-    "image": "T191253A.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA6068B",
+      "image":  "PLMXA6068B.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA6068B.jpg"
   },
   {
-    "catalog": "T191255A",
-    "image": "T191255A.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA6069D",
+      "image":  "PLMXA6069D.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PLMXA6069D.jpg"
   },
   {
-    "catalog": "T191256A",
-    "image": "T191256A.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA6071C",
+      "image":  "PLMXA6071C.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA6071C.jpg"
   },
   {
-    "catalog": "T191257A",
-    "image": "T191257A.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA6072D",
+      "image":  "PLMXA6072D.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PLMXA6072D.jpg"
   },
   {
-    "catalog": "T191258C",
-    "image": "T191258C.TIF",
-    "sheet": "00001"
+      "catalog":  "T138353A",
+      "image":  "CD029648A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "CD029648A.jpg"
   },
   {
-    "catalog": "T191259C",
-    "image": "T191259C.TIF",
-    "sheet": "00001"
+      "catalog":  "T138352A",
+      "image":  "CD029648A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "CD029648A.jpg"
   },
   {
-    "catalog": "T191260A",
-    "image": "T191260A.TIF",
-    "sheet": "00001"
+      "catalog":  "T138308B",
+      "image":  "T138308B.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T138308B.jpg"
   },
   {
-    "catalog": "T177672",
-    "image": "T177672A.TIF",
-    "sheet": "00001"
+      "catalog":  "T138309F",
+      "image":  "T138309F.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T138309F.jpg"
   },
   {
-    "catalog": "PLMXA6052E",
-    "image": "PLMXA6052E.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXM2011C",
+      "image":  "PLMXM2011C.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXM2011C.jpg"
   },
   {
-    "catalog": "T138354A",
-    "image": "CD029649A.TIF",
-    "sheet": "00001"
+      "catalog":  "T138741A",
+      "image":  "T138741A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T138741A.jpg"
   },
   {
-    "catalog": "PLMXA6053",
-    "image": "PLMXA6053.TIF",
-    "sheet": "00001"
+      "catalog":  "T182753B",
+      "image":  "T182753B.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T182753B.jpg"
   },
   {
-    "catalog": "PLMXA6064F",
-    "image": "PLMXA6064F.TIF",
-    "sheet": "00001"
+      "catalog":  "T182754B",
+      "image":  "T182754B.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T182754B.jpg"
   },
   {
-    "catalog": "PLMXA6068B",
-    "image": "PLMXA6068B.TIF",
-    "sheet": "00001"
+      "catalog":  "T182582A",
+      "image":  "T182582A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T182582A.jpg"
   },
   {
-    "catalog": "PLMXA6069D",
-    "image": "PLMXA6069D.TIF",
-    "sheet": "00001"
+      "catalog":  "T182581A",
+      "image":  "T182581A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T182581A.jpg"
   },
   {
-    "catalog": "PLMXA6071C",
-    "image": "PLMXA6071C.TIF",
-    "sheet": "00001"
+      "catalog":  "T182624A",
+      "image":  "T182624A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T182624A.jpg"
   },
   {
-    "catalog": "PLMXA6072D",
-    "image": "PLMXA6072D.TIF",
-    "sheet": "00001"
+      "catalog":  "T183570B",
+      "image":  "T183570B.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T183570B.jpg"
   },
   {
-    "catalog": "T138353A",
-    "image": "CD029648A.TIF",
-    "sheet": "00001"
+      "catalog":  "T185751A",
+      "image":  "T185751A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T185751A.jpg"
   },
   {
-    "catalog": "T138352A",
-    "image": "CD029648A.TIF",
-    "sheet": "00001"
+      "catalog":  "T177673",
+      "image":  "T177673E.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T177673E.jpg"
   },
   {
-    "catalog": "T138308B",
-    "image": "T138308B.TIF",
-    "sheet": "00001"
+      "catalog":  "T156408B",
+      "image":  "T156408B.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T156408B.jpg"
   },
   {
-    "catalog": "T138309F",
-    "image": "T138309F.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA7029E",
+      "image":  "PLMXA7029E.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA7029E.jpg"
   },
   {
-    "catalog": "PLMXM2011C",
-    "image": "PLMXM2011C.TIF",
-    "sheet": "00001"
+      "catalog":  "T178899A",
+      "image":  "T178899A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T178899A.jpg"
   },
   {
-    "catalog": "T138741A",
-    "image": "T138741A.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA7034G",
+      "image":  "PLMXA7034G.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA7034G.jpg"
   },
   {
-    "catalog": "T182753B",
-    "image": "T182753B.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA7059C",
+      "image":  "PLMXA7059C.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA7059C.jpg"
   },
   {
-    "catalog": "T182754B",
-    "image": "T182754B.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA7060B",
+      "image":  "PLMXA7060B.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PLMXA7060B.jpg"
   },
   {
-    "catalog": "T182582A",
-    "image": "T182582A.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA7062C",
+      "image":  "PLMXA7062C.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PLMXA7062C.jpg"
   },
   {
-    "catalog": "T182581A",
-    "image": "T182581A.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA8184A",
+      "image":  "PLMXA8184A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PLMXA8184A.jpg"
   },
   {
-    "catalog": "T182624A",
-    "image": "T182624A.TIF",
-    "sheet": "00001"
+      "catalog":  "T137351F",
+      "image":  "T137351F.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T137351F.jpg"
   },
   {
-    "catalog": "T183570B",
-    "image": "T183570B.TIF",
-    "sheet": "00001"
+      "catalog":  "T135941A",
+      "image":  "T135941A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T135941A.jpg"
   },
   {
-    "catalog": "T185751A",
-    "image": "T185751A.TIF",
-    "sheet": "00001"
+      "catalog":  "T137353E",
+      "image":  "T137353E.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T137353E.jpg"
   },
   {
-    "catalog": "T177673",
-    "image": "T177673E.TIF",
-    "sheet": "00001"
+      "catalog":  "T138773I",
+      "image":  "T138773I.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T138773I.jpg"
   },
   {
-    "catalog": "T156408B",
-    "image": "T156408B.TIF",
-    "sheet": "00001"
+      "catalog":  "T139169A",
+      "image":  "T139169A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T139169A.jpg"
   },
   {
-    "catalog": "PLMXA7029E",
-    "image": "PLMXA7029E.TIF",
-    "sheet": "00001"
+      "catalog":  "T143124B",
+      "image":  "T143124B.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T143124B.jpg"
   },
   {
-    "catalog": "T178899A",
-    "image": "T178899A.TIF",
-    "sheet": "00001"
+      "catalog":  "T154711E",
+      "image":  "T154711E.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T154711E.jpg"
   },
   {
-    "catalog": "PLMXA7034G",
-    "image": "PLMXA7034G.TIF",
-    "sheet": "00001"
+      "catalog":  "T172822A",
+      "image":  "T172822A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T172822A.jpg"
   },
   {
-    "catalog": "PLMXA7059C",
-    "image": "PLMXA7059C.TIF",
-    "sheet": "00001"
+      "catalog":  "T172767",
+      "image":  "T1727670.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T1727670.jpg"
   },
   {
-    "catalog": "PLMXA7060B",
-    "image": "PLMXA7060B.TIF",
-    "sheet": "00001"
+      "catalog":  "T177823B",
+      "image":  "T177823B.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T177823B.jpg"
   },
   {
-    "catalog": "PLMXA7062C",
-    "image": "PLMXA7062C.TIF",
-    "sheet": "00001"
+      "catalog":  "PP1602126",
+      "image":  "PP1602126.tif",
+      "sheet":  "1",
+      "width":  1720,
+      "height":  1128,
+      "webImage":  "PP1602126.jpg"
   },
   {
-    "catalog": "PLMXA8184A",
-    "image": "PLMXA8184A.TIF",
-    "sheet": "00001"
+      "catalog":  "T133722A",
+      "image":  "T133722A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T133722A.jpg"
   },
   {
-    "catalog": "T137351F",
-    "image": "T137351F.TIF",
-    "sheet": "00001"
+      "catalog":  "T138740C",
+      "image":  "T138740C.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T138740C.jpg"
   },
   {
-    "catalog": "T135941A",
-    "image": "T135941A.TIF",
-    "sheet": "00001"
+      "catalog":  "T154728D",
+      "image":  "T154728D.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T154728D.jpg"
   },
   {
-    "catalog": "T137353E",
-    "image": "T137353E.TIF",
-    "sheet": "00001"
+      "catalog":  "T135392D",
+      "image":  "T135392D.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T135392D.jpg"
   },
   {
-    "catalog": "T138773I",
-    "image": "T138773I.TIF",
-    "sheet": "00001"
+      "catalog":  "T191181A",
+      "image":  "T191181A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T191181A.jpg"
   },
   {
-    "catalog": "T139169A",
-    "image": "T139169A.TIF",
-    "sheet": "00001"
+      "catalog":  "T191275A",
+      "image":  "T191275A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T191275A.jpg"
   },
   {
-    "catalog": "T143124B",
-    "image": "T143124B.TIF",
-    "sheet": "00001"
+      "catalog":  "T191725A",
+      "image":  "T191725A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T191725A.jpg"
   },
   {
-    "catalog": "T154711E",
-    "image": "T154711E.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA8001E",
+      "image":  "PLMXA8001E.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PLMXA8001E.jpg"
   },
   {
-    "catalog": "T172822A",
-    "image": "T172822A.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA8061I",
+      "image":  "PLMXA8061I.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PLMXA8061I.jpg"
   },
   {
-    "catalog": "T172767",
-    "image": "T1727670.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA8091C",
+      "image":  "PLMXA8091C.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PLMXA8091C.jpg"
   },
   {
-    "catalog": "T177823B",
-    "image": "T177823B.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA8095E",
+      "image":  "PLMXA8095E.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA8095E.jpg"
   },
   {
-    "catalog": "PP1602126",
-    "image": "PP1602126.tif",
-    "sheet": "1"
+      "catalog":  "PLMXA8111B",
+      "image":  "PLMXA8111B.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "PLMXA8111B.jpg"
   },
   {
-    "catalog": "T133722A",
-    "image": "T133722A.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA8115B",
+      "image":  "PLMXA8115B.TIF",
+      "sheet":  "00001",
+      "width":  19872,
+      "height":  14032,
+      "webImage":  "PLMXA8115B.jpg"
   },
   {
-    "catalog": "T138740C",
-    "image": "T138740C.TIF",
-    "sheet": "00001"
+      "catalog":  "PLMXA8148B",
+      "image":  "PLMXA8148B.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "PLMXA8148B.jpg"
   },
   {
-    "catalog": "T154728D",
-    "image": "T154728D.TIF",
-    "sheet": "00001"
+      "catalog":  "T131458B",
+      "image":  "T131458B.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T131458B.jpg"
   },
   {
-    "catalog": "T135392D",
-    "image": "T135392D.TIF",
-    "sheet": "00001"
+      "catalog":  "T150914",
+      "image":  "T150914.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T150914.jpg"
   },
   {
-    "catalog": "T191181A",
-    "image": "T191181A.TIF",
-    "sheet": "00001"
+      "catalog":  "T154681H",
+      "image":  "T154681H.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T154681H.jpg"
   },
   {
-    "catalog": "T191275A",
-    "image": "T191275A.TIF",
-    "sheet": "00001"
+      "catalog":  "T152974C",
+      "image":  "T152974C.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T152974C.jpg"
   },
   {
-    "catalog": "T191725A",
-    "image": "T191725A.TIF",
-    "sheet": "00001"
+      "catalog":  "T167698A",
+      "image":  "T167698A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T167698A.jpg"
   },
   {
-    "catalog": "PLMXA8001E",
-    "image": "PLMXA8001E.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "PLMXA8061I",
-    "image": "PLMXA8061I.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "PLMXA8091C",
-    "image": "PLMXA8091C.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "PLMXA8095E",
-    "image": "PLMXA8095E.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "PLMXA8111B",
-    "image": "PLMXA8111B.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "PLMXA8115B",
-    "image": "PLMXA8115B.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "PLMXA8148B",
-    "image": "PLMXA8148B.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T131458B",
-    "image": "T131458B.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T150914",
-    "image": "T150914.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T154681H",
-    "image": "T154681H.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T152974C",
-    "image": "T152974C.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T167698A",
-    "image": "T167698A.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T154682A",
-    "image": "T154682A.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T159265B",
-    "image": "T159265B.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T161298C",
-    "image": "T161298C.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T167078A",
-    "image": "T167078A.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T171607",
-    "image": "T171607.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T173373",
-    "image": "T173373.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T179221A",
-    "image": "T179221A.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T181694B",
-    "image": "T181694B.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T177770D",
-    "image": "T177770D.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T177771B",
-    "image": "T177771B.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T177772C",
-    "image": "T177772C.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T191206B",
-    "image": "T191206B.TIF",
-    "sheet": "00001"
-  },
-  {
-    "catalog": "T191207B",
-    "image": "T191207B.TIF",
-    "sheet": "00001"
+      "catalog":  "T154682A",
+      "image":  "T154682A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T154682A.jpg"
+  },
+  {
+      "catalog":  "T159265B",
+      "image":  "T159265B.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T159265B.jpg"
+  },
+  {
+      "catalog":  "T161298C",
+      "image":  "T161298C.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T161298C.jpg"
+  },
+  {
+      "catalog":  "T167078A",
+      "image":  "T167078A.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T167078A.jpg"
+  },
+  {
+      "catalog":  "T171607",
+      "image":  "T171607.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T171607.jpg"
+  },
+  {
+      "catalog":  "T173373",
+      "image":  "T173373.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T173373.jpg"
+  },
+  {
+      "catalog":  "T179221A",
+      "image":  "T179221A.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T179221A.jpg"
+  },
+  {
+      "catalog":  "T181694B",
+      "image":  "T181694B.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T181694B.jpg"
+  },
+  {
+      "catalog":  "T177770D",
+      "image":  "T177770D.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T177770D.jpg"
+  },
+  {
+      "catalog":  "T177771B",
+      "image":  "T177771B.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T177771B.jpg"
+  },
+  {
+      "catalog":  "T177772C",
+      "image":  "T177772C.TIF",
+      "sheet":  "00001",
+      "width":  19842,
+      "height":  14031,
+      "webImage":  "T177772C.jpg"
+  },
+  {
+      "catalog":  "T191206B",
+      "image":  "T191206B.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T191206B.jpg"
+  },
+  {
+      "catalog":  "T191207B",
+      "image":  "T191207B.TIF",
+      "sheet":  "00001",
+      "width":  9921,
+      "height":  14031,
+      "webImage":  "T191207B.jpg"
   }
 ]
