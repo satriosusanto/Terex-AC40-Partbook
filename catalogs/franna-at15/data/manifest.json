@@ -1,0 +1,17 @@
+{
+  "model": "Franna AT15",
+  "source_records": {
+    "KATALOG": 3888,
+    "MAT": 2338,
+    "SPRACHE_EN": 2337,
+    "LINKS": 3007,
+    "IMAGES": 192,
+    "POOL": 191
+  },
+  "web": {
+    "catalogs": 276,
+    "parts": 3888,
+    "hotspots": 2913,
+    "images": 192
+  }
+}
