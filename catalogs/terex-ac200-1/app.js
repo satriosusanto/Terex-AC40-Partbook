@@ -33,7 +33,7 @@ function renderDiagram(){
  const src=current.image; const img=$("diagram");
  if(!src){img.removeAttribute("src"); $("hotspots").innerHTML=""; return}
  img.src="images/"+encodeURIComponent(src);
- img.onload=()=>{zoom=1;applyZoom(); renderHotspots();};
+ img.onload=()=>{fitDiagram();renderHotspots();};
 }
 function renderHotspots(){
  const layer=$("hotspots"); layer.innerHTML="";
@@ -71,13 +71,13 @@ function showPart(cat,pos,hot){
  ].map(x=>`<div class="kv"><b>${esc(x[0])}</b><span>${esc(x[1]||"—")}</span></div>`).join("");
  $("modal").classList.remove("hidden");
 }
-function applyZoom(){
+function fitDiagram(){const img=$("diagram"),wrap=$("canvasWrap");if(!img?.naturalWidth||!wrap)return;zoom=Math.max(.05,Math.min((wrap.clientWidth-60)/img.naturalWidth,(wrap.clientHeight-85)/img.naturalHeight,1));applyZoom()}function applyZoom(){
  $("canvas").style.transform=`scale(${zoom})`;
  $("zoomLabel").textContent=Math.round(zoom*100)+"%";
 }
 $("zoomIn").onclick=()=>{zoom=Math.min(3,zoom*1.2);applyZoom()};
 $("zoomOut").onclick=()=>{zoom=Math.max(.25,zoom/1.2);applyZoom()};
-$("fitBtn").onclick=()=>{zoom=1;applyZoom()};
+$("fitBtn").onclick=fitDiagram;window.addEventListener("resize",()=>{if(current?.image)fitDiagram()});
 $("close").onclick=()=>$("modal").classList.add("hidden");
 $("modal").onclick=e=>{if(e.target.id==="modal")$("modal").classList.add("hidden")};
 $("catalogFilter").oninput=()=>renderCatalogs(catalogs);
