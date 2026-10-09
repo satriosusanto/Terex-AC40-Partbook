@@ -1,0 +1,6214 @@
+{
+  "model": "TEREX AC200-1",
+  "count": 776,
+  "items": [
+    {
+      "id": "33340.1",
+      "version": "",
+      "title": "AC 200-1",
+      "image": "POOL_45315112_1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "45314212",
+      "version": "G",
+      "title": "45314212",
+      "image": "POOL_45314212E1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "12666612",
+      "version": "C",
+      "title": "12666612",
+      "image": "POOL_45305812_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "12666212",
+      "version": "A",
+      "title": "CENTRAL LUBRICATION ADD PARTS",
+      "image": "POOL_45132912_1.TIF_.jpg",
+      "partCount": 17,
+      "hasDiagram": true
+    },
+    {
+      "id": "45132812",
+      "version": "_",
+      "title": "LUBRICATION PUMP",
+      "image": "POOL_45132812_1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "45081512",
+      "version": "E",
+      "title": "45081512",
+      "image": "POOL_45081512E1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "45124612",
+      "version": "B",
+      "title": "45124612",
+      "image": "POOL_45124612B1.TIF_.jpg",
+      "partCount": 26,
+      "hasDiagram": true
+    },
+    {
+      "id": "65518140",
+      "version": "_",
+      "title": "FLANGE CONNECTION",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45124912",
+      "version": "A",
+      "title": "45124912",
+      "image": "POOL_45124912A1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "45281212",
+      "version": "A",
+      "title": "45281212",
+      "image": "POOL_45281212A1.TIF_.jpg",
+      "partCount": 19,
+      "hasDiagram": true
+    },
+    {
+      "id": "55159040",
+      "version": "_",
+      "title": "COUPLING SLEEVE",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45305012",
+      "version": "A",
+      "title": "45305012",
+      "image": null,
+      "partCount": 6,
+      "hasDiagram": false
+    },
+    {
+      "id": "45275112",
+      "version": "A",
+      "title": "45275112",
+      "image": "POOL_45275112A1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "55193012",
+      "version": "_",
+      "title": "control block suspension",
+      "image": "POOL_44230312_1.TIF_.jpg",
+      "partCount": 26,
+      "hasDiagram": true
+    },
+    {
+      "id": "45129512",
+      "version": "A",
+      "title": "45129512",
+      "image": "POOL_45129512A1.TIF_.jpg",
+      "partCount": 28,
+      "hasDiagram": true
+    },
+    {
+      "id": "32420840",
+      "version": "_",
+      "title": "FLOW INDICATOR",
+      "image": "POOL_20448612A1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "45273512",
+      "version": "_",
+      "title": "Fan Pump 14",
+      "image": "POOL_45273512_1.TIF_.jpg",
+      "partCount": 35,
+      "hasDiagram": true
+    },
+    {
+      "id": "00202112",
+      "version": "_",
+      "title": "VALVE",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "17483012",
+      "version": "_",
+      "title": "FLANGE CONNECTION",
+      "image": "POOL_45274312_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "57639840",
+      "version": "_",
+      "title": "FLANGE CONNECTION",
+      "image": "POOL_45274212_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "59279040",
+      "version": "_",
+      "title": "FLANGE CONNECTION",
+      "image": "POOL_45274412_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "45280612",
+      "version": "A",
+      "title": "45280612",
+      "image": "POOL_45280612A1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "19512812",
+      "version": "C",
+      "title": "19512812",
+      "image": "POOL_45096612_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "28830212",
+      "version": "_",
+      "title": "Return oil filter",
+      "image": "POOL_48270312A1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "28831212",
+      "version": "_",
+      "title": "FILTER",
+      "image": "POOL_48267912_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "45275212",
+      "version": "_",
+      "title": "Suspension, R.H. A1 / A2",
+      "image": "POOL_45275212_1.TIF_.jpg",
+      "partCount": 15,
+      "hasDiagram": true
+    },
+    {
+      "id": "41367012",
+      "version": "_",
+      "title": "DIRECTIONAL SEAT VALVE",
+      "image": "POOL_41367012_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "45275312",
+      "version": "_",
+      "title": "Suspension, R.H. A3 / A4 / A5",
+      "image": "POOL_45275312_1.TIF_.jpg",
+      "partCount": 32,
+      "hasDiagram": true
+    },
+    {
+      "id": "45275412",
+      "version": "_",
+      "title": "Suspension, L.H. A1 / A2",
+      "image": "POOL_45275412_1.TIF_.jpg",
+      "partCount": 21,
+      "hasDiagram": true
+    },
+    {
+      "id": "45275512",
+      "version": "_",
+      "title": "Suspension, L.H. A3 / A4 / A5",
+      "image": "POOL_45275512_1.TIF_.jpg",
+      "partCount": 32,
+      "hasDiagram": true
+    },
+    {
+      "id": "45305512",
+      "version": "_",
+      "title": "Steering",
+      "image": null,
+      "partCount": 5,
+      "hasDiagram": false
+    },
+    {
+      "id": "45280712",
+      "version": "_",
+      "title": "Steering Circuit 1, A1 / A2",
+      "image": "POOL_45280712_1.TIF_.jpg",
+      "partCount": 41,
+      "hasDiagram": true
+    },
+    {
+      "id": "45280812",
+      "version": "_",
+      "title": "Steering Circuit 2, A1 / A2",
+      "image": "POOL_45280812_1.TIF_.jpg",
+      "partCount": 26,
+      "hasDiagram": true
+    },
+    {
+      "id": "45280912",
+      "version": "_",
+      "title": "Steering Circuit 1, A4",
+      "image": "POOL_45280912_1.TIF_.jpg",
+      "partCount": 17,
+      "hasDiagram": true
+    },
+    {
+      "id": "02218912",
+      "version": "_",
+      "title": "CONTROL BLOCK",
+      "image": "POOL_43376912_1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "42512212",
+      "version": "_",
+      "title": "NON-RETURN-VALVE",
+      "image": "POOL_45308212_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "44229912",
+      "version": "_",
+      "title": "SOLENOID",
+      "image": "POOL_44229912_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "45281012",
+      "version": "_",
+      "title": "Steering Circuit 2, A5",
+      "image": "POOL_45281012_1.TIF_.jpg",
+      "partCount": 15,
+      "hasDiagram": true
+    },
+    {
+      "id": "45305612",
+      "version": "A",
+      "title": "45305612",
+      "image": null,
+      "partCount": 5,
+      "hasDiagram": false
+    },
+    {
+      "id": "45275712",
+      "version": "_",
+      "title": "Mounting, Outrigger Block",
+      "image": "POOL_45275712_1.TIF_.jpg",
+      "partCount": 19,
+      "hasDiagram": true
+    },
+    {
+      "id": "00232412",
+      "version": "_",
+      "title": "CONTROL BLOCK",
+      "image": "POOL_44168512_1.TIF_.jpg",
+      "partCount": 21,
+      "hasDiagram": true
+    },
+    {
+      "id": "44062512",
+      "version": "_",
+      "title": "VALVE",
+      "image": "POOL_44179112_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "44168112",
+      "version": "_",
+      "title": "VALVE",
+      "image": "POOL_44179112_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "45280112",
+      "version": "A",
+      "title": "45280112",
+      "image": "POOL_45280112A1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "45280212",
+      "version": "A",
+      "title": "45280212",
+      "image": "POOL_45280212A1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "45281512",
+      "version": "_",
+      "title": "Outriggers-Quick Disconnection",
+      "image": "POOL_45281512_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "45095812",
+      "version": "D",
+      "title": "45095812",
+      "image": "POOL_45095812D1.TIF_.jpg",
+      "partCount": 18,
+      "hasDiagram": true
+    },
+    {
+      "id": "12775712",
+      "version": "B",
+      "title": "12775712",
+      "image": "POOL_45092112A1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "12789712",
+      "version": "C",
+      "title": "12789712",
+      "image": "POOL_45092212A1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "19969012",
+      "version": "A",
+      "title": "19969012",
+      "image": "POOL_44313712_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "45242112",
+      "version": "C",
+      "title": "45242112",
+      "image": "POOL_45242112C1.TIF_.jpg",
+      "partCount": 49,
+      "hasDiagram": true
+    },
+    {
+      "id": "19121012",
+      "version": "_",
+      "title": "CYLINDER",
+      "image": "POOL_45244912_1.TIF_.jpg",
+      "partCount": 13,
+      "hasDiagram": true
+    },
+    {
+      "id": "19446112",
+      "version": "_",
+      "title": "GUIDE CHAIN",
+      "image": "POOL_45281312_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "44219112",
+      "version": "_",
+      "title": "WIRE",
+      "image": "POOL_40763912_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "45355312",
+      "version": "A",
+      "title": "45355312",
+      "image": "POOL_45355312A1.TIF_.jpg",
+      "partCount": 15,
+      "hasDiagram": true
+    },
+    {
+      "id": "54147112",
+      "version": "_",
+      "title": "Cylinder",
+      "image": "POOL_48363512_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "54147212",
+      "version": "_",
+      "title": "Cylinder",
+      "image": "POOL_48363612_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "45242212",
+      "version": "C",
+      "title": "45242212",
+      "image": "POOL_45242212C1.TIF_.jpg",
+      "partCount": 48,
+      "hasDiagram": true
+    },
+    {
+      "id": "12691512",
+      "version": "B",
+      "title": "CYLINDER",
+      "image": "POOL_45244812_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "41451012",
+      "version": "_",
+      "title": "SEAL KIT",
+      "image": "POOL_41451012_1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "45355412",
+      "version": "A",
+      "title": "45355412",
+      "image": "POOL_45355412A1.TIF_.jpg",
+      "partCount": 14,
+      "hasDiagram": true
+    },
+    {
+      "id": "45142412",
+      "version": "C",
+      "title": "45142412",
+      "image": "POOL_45142412B1.TIF_.jpg",
+      "partCount": 14,
+      "hasDiagram": true
+    },
+    {
+      "id": "19608312",
+      "version": "_",
+      "title": "FUEL PREFILTER",
+      "image": "POOL_45094912B1.TIF_.jpg",
+      "partCount": 25,
+      "hasDiagram": true
+    },
+    {
+      "id": "19497412",
+      "version": "_",
+      "title": "FUEL PREFILTER",
+      "image": "POOL_48080712_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "45331512",
+      "version": "A",
+      "title": "45331512",
+      "image": "POOL_45331512_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "19608612",
+      "version": "A",
+      "title": "19608612",
+      "image": "POOL_45141512A1.TIF_.jpg",
+      "partCount": 51,
+      "hasDiagram": true
+    },
+    {
+      "id": "45255612",
+      "version": "A",
+      "title": "45255612",
+      "image": "POOL_45255612A1.TIF_.jpg",
+      "partCount": 48,
+      "hasDiagram": true
+    },
+    {
+      "id": "00186812",
+      "version": "_",
+      "title": "SIDE MARKER LAMP",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45255712",
+      "version": "A",
+      "title": "45255712",
+      "image": "POOL_45255712A1.TIF_.jpg",
+      "partCount": 31,
+      "hasDiagram": true
+    },
+    {
+      "id": "45309012",
+      "version": "B",
+      "title": "45309012",
+      "image": "POOL_45309012A1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "12688912",
+      "version": "K",
+      "title": "12688912",
+      "image": "POOL_46082512A1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "45313912",
+      "version": "_",
+      "title": "SUPPORTS",
+      "image": "POOL_45313912_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "19294512",
+      "version": "A",
+      "title": "HOOK SUSPENSION SUPPORT",
+      "image": "POOL_45315612_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "19388612",
+      "version": "_",
+      "title": "HOOK BLOCK SUPPORT",
+      "image": "POOL_45315512_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "30633812",
+      "version": "A",
+      "title": "HOOK BLOCK SUPPORT",
+      "image": "POOL_46081012_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "30397412",
+      "version": "B",
+      "title": "HOOK BLOCK SUPPORT",
+      "image": "POOL_46081112_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "45315912",
+      "version": "_",
+      "title": "TRAILER COUPLINGS",
+      "image": "POOL_45315912_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "17235212",
+      "version": "C",
+      "title": "TRAILER COUPLING 400G",
+      "image": "POOL_46080912B1.TIF_.jpg",
+      "partCount": 22,
+      "hasDiagram": true
+    },
+    {
+      "id": "17235312",
+      "version": "C",
+      "title": "17235312",
+      "image": "POOL_46080912B1.TIF_.jpg",
+      "partCount": 22,
+      "hasDiagram": true
+    },
+    {
+      "id": "17235412",
+      "version": "C",
+      "title": "17235412",
+      "image": "POOL_46080912B1.TIF_.jpg",
+      "partCount": 22,
+      "hasDiagram": true
+    },
+    {
+      "id": "19705812",
+      "version": "A",
+      "title": "TRAILER COUPLING CAR",
+      "image": "POOL_47201712_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "28338112",
+      "version": "_",
+      "title": "TRAILER COUPLING 795V",
+      "image": "POOL_45282912_1.TIF_.jpg",
+      "partCount": 23,
+      "hasDiagram": true
+    },
+    {
+      "id": "54609940",
+      "version": "_",
+      "title": "TRAILER COUPLING SK5A",
+      "image": "POOL_47171312_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "64059040",
+      "version": "_",
+      "title": "TRAILER COUPLING SK5A",
+      "image": "POOL_43364512_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "45327712",
+      "version": "_",
+      "title": "COVERING RIGHT HAND",
+      "image": "POOL_45327712_1.TIF_.jpg",
+      "partCount": 20,
+      "hasDiagram": true
+    },
+    {
+      "id": "17601312",
+      "version": "K",
+      "title": "17601312",
+      "image": "POOL_43406512_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "00122912",
+      "version": "_",
+      "title": "FASTENER",
+      "image": "POOL_48079712_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "45327812",
+      "version": "_",
+      "title": "COVERING LEFT HAND",
+      "image": "POOL_45327812_1.TIF_.jpg",
+      "partCount": 25,
+      "hasDiagram": true
+    },
+    {
+      "id": "17601012",
+      "version": "J",
+      "title": "17601012",
+      "image": "POOL_43406512_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "45327912",
+      "version": "_",
+      "title": "COVERING FRONT FRAME",
+      "image": "POOL_45327912_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "61475540",
+      "version": "_",
+      "title": "MOUNTING LADDER",
+      "image": "POOL_40515812_1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "45330012",
+      "version": "A",
+      "title": "45330012",
+      "image": "POOL_45330012A1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "45330112",
+      "version": "A",
+      "title": "45330112",
+      "image": "POOL_45330112A1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "42485612",
+      "version": "_",
+      "title": "CLOSURE",
+      "image": "POOL_42485612_1.TIF_.jpg",
+      "partCount": 45,
+      "hasDiagram": true
+    },
+    {
+      "id": "47171212",
+      "version": "_",
+      "title": "SUPPORTS CAMERA",
+      "image": "POOL_47171212_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "28062412",
+      "version": "_",
+      "title": "SUPPORT CAMERA",
+      "image": "POOL_45297212_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "28130412",
+      "version": "_",
+      "title": "SUPPORT CAMERA",
+      "image": "POOL_45297312_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "31320612",
+      "version": "_",
+      "title": "SUPPORT CAMERA",
+      "image": "POOL_45297412_1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "57437012",
+      "version": "_",
+      "title": "assembly camera Helle at combi box",
+      "image": "POOL_40849512_1.TIF_.jpg",
+      "partCount": 13,
+      "hasDiagram": true
+    },
+    {
+      "id": "47171712",
+      "version": "_",
+      "title": "Spare wheel suspensions",
+      "image": "POOL_47171712_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "12992512",
+      "version": "A",
+      "title": "12992512",
+      "image": "POOL_45118312_1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "31258112",
+      "version": "C",
+      "title": "31258112",
+      "image": "POOL_45118212_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "47171912",
+      "version": "A",
+      "title": "47171912",
+      "image": "POOL_47171812_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "31258212",
+      "version": "B",
+      "title": "31258212",
+      "image": "POOL_45117712_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "30395412",
+      "version": "F",
+      "title": "30395412",
+      "image": "POOL_45117812_1.TIF_.jpg",
+      "partCount": 23,
+      "hasDiagram": true
+    },
+    {
+      "id": "30395812",
+      "version": "B",
+      "title": "30395812",
+      "image": "POOL_40577712_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "30395912",
+      "version": "B",
+      "title": "30395912",
+      "image": "POOL_40572012_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "31258312",
+      "version": "_",
+      "title": "ASS. SHELVE",
+      "image": "POOL_45117912_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "30436012",
+      "version": "E",
+      "title": "30436012",
+      "image": "POOL_45118012_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "54112612",
+      "version": "A",
+      "title": "SUPPORT WOOD",
+      "image": "POOL_44387212_1.TIF_.jpg",
+      "partCount": 16,
+      "hasDiagram": true
+    },
+    {
+      "id": "45142512",
+      "version": "B",
+      "title": "45142512",
+      "image": null,
+      "partCount": 4,
+      "hasDiagram": false
+    },
+    {
+      "id": "17236912",
+      "version": "F",
+      "title": "17236912",
+      "image": "POOL_45103112_1.TIF_.jpg",
+      "partCount": 65,
+      "hasDiagram": true
+    },
+    {
+      "id": "54112712",
+      "version": "A",
+      "title": "SUPPORT WOOD",
+      "image": "POOL_44387312_1.TIF_.jpg",
+      "partCount": 17,
+      "hasDiagram": true
+    },
+    {
+      "id": "47193912",
+      "version": "_",
+      "title": "HOOK BLOCK FIXING DEVICES",
+      "image": "POOL_47193912_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "52982640",
+      "version": "_",
+      "title": "HOOK BLOCK FIXING DEVICE",
+      "image": "POOL_40744012_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "27183312",
+      "version": "_",
+      "title": "VALVES",
+      "image": "POOL_45286612_1.TIF_.jpg",
+      "partCount": 24,
+      "hasDiagram": true
+    },
+    {
+      "id": "45123712",
+      "version": "B",
+      "title": "45123712",
+      "image": "POOL_45123712B1.TIF_.jpg",
+      "partCount": 44,
+      "hasDiagram": true
+    },
+    {
+      "id": "00036212",
+      "version": "_",
+      "title": "AIR DRYER",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45218012",
+      "version": "G",
+      "title": "45218012",
+      "image": "POOL_45218012F1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "12778812",
+      "version": "B",
+      "title": "12778812",
+      "image": "POOL_45126812B1.TIF_.jpg",
+      "partCount": 18,
+      "hasDiagram": true
+    },
+    {
+      "id": "13284412",
+      "version": "C",
+      "title": "13284412",
+      "image": "POOL_45149212B1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "17497112",
+      "version": "_",
+      "title": "ELECTRIC",
+      "image": "POOL_46083012_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "28030012",
+      "version": "_",
+      "title": "OUTRIGGERS LEFT SIDE",
+      "image": "POOL_20901712B1.TIF_.jpg",
+      "partCount": 26,
+      "hasDiagram": true
+    },
+    {
+      "id": "41241412",
+      "version": "_",
+      "title": "PUSH BUTTON, ASSY.",
+      "image": "POOL_45101712_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "42045612",
+      "version": "_",
+      "title": "SNAP, KEY OPERATED",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "28030112",
+      "version": "_",
+      "title": "OUTRIGGERS RIGHT SIDE",
+      "image": "POOL_40551112A1.TIF_.jpg",
+      "partCount": 20,
+      "hasDiagram": true
+    },
+    {
+      "id": "45096012",
+      "version": "E",
+      "title": "45096012",
+      "image": "POOL_45095912E1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "27488612",
+      "version": "_",
+      "title": "SLIP RING",
+      "image": "POOL_47291512_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "45293412",
+      "version": "_",
+      "title": "Battery Switch",
+      "image": "POOL_45293412_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "46150740",
+      "version": "_",
+      "title": "PUSH-TOGGLE SWITCH",
+      "image": "POOL_48051212_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "45296612",
+      "version": "B",
+      "title": "45296612",
+      "image": "POOL_45296612A1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "00029812",
+      "version": "_",
+      "title": "READING LAMP",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45296412",
+      "version": "_",
+      "title": "MOUNTING RADIO",
+      "image": "POOL_45296412_1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "45296512",
+      "version": "_",
+      "title": "TACHOGRAPH",
+      "image": "POOL_45296512_1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "45303812",
+      "version": "B",
+      "title": "45303812",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "45157812",
+      "version": "B",
+      "title": "45157812",
+      "image": "POOL_45157812A1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "17491312",
+      "version": "_",
+      "title": "DIGSY COMP. CHASSIS",
+      "image": "POOL_45157512_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "00246412",
+      "version": "_",
+      "title": "CONTROL UNIT",
+      "image": "POOL_42264312_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "45303912",
+      "version": "_",
+      "title": "Instrument Panel Arr.",
+      "image": "POOL_45303912_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "45102012",
+      "version": "A",
+      "title": "45102012",
+      "image": "POOL_45102012A1.TIF_.jpg",
+      "partCount": 16,
+      "hasDiagram": true
+    },
+    {
+      "id": "02215012",
+      "version": "_",
+      "title": "DISPLAY",
+      "image": "POOL_40805712_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "46123240",
+      "version": "_",
+      "title": "PUSH-TOGGLE SWITCH",
+      "image": "POOL_48051212_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "52499140",
+      "version": "_",
+      "title": "PUSH-TOGGLE SWITCH",
+      "image": "POOL_48051212_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "55103640",
+      "version": "_",
+      "title": "PUSH-TOGGLE SWITCH",
+      "image": "POOL_48051212_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "55103840",
+      "version": "_",
+      "title": "PUSH-TOGGLE SWITCH",
+      "image": "POOL_48051212_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "45102112",
+      "version": "A",
+      "title": "45102112",
+      "image": "POOL_45102112A1.TIF_.jpg",
+      "partCount": 15,
+      "hasDiagram": true
+    },
+    {
+      "id": "45297512",
+      "version": "_",
+      "title": "Instrument Panel ARR., Lower",
+      "image": "POOL_45297512_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "47033812",
+      "version": "_",
+      "title": "CLEARANCE LAMP",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "47033912",
+      "version": "_",
+      "title": "DOME LAMP",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45345512",
+      "version": "_",
+      "title": "LIGHTING EQUIPMENT",
+      "image": "POOL_45345512_1.TIF_.jpg",
+      "partCount": 19,
+      "hasDiagram": true
+    },
+    {
+      "id": "45345612",
+      "version": "_",
+      "title": "PROTECTIVE DEVICE",
+      "image": "POOL_45345612_1.TIF_.jpg",
+      "partCount": 19,
+      "hasDiagram": true
+    },
+    {
+      "id": "19932512",
+      "version": "_",
+      "title": "TAIL LIGHT L.H.",
+      "image": "POOL_47236512_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "19932612",
+      "version": "_",
+      "title": "TAIL LIGHT R.H.",
+      "image": "POOL_47236412_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "22551812",
+      "version": "_",
+      "title": "BACKING WARNING BUZZER",
+      "image": "POOL_46325812_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "57620840",
+      "version": "_",
+      "title": "ROTAFLARE LIGHT",
+      "image": "POOL_42266612_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "67213740",
+      "version": "D",
+      "title": "LAMP CARRIER",
+      "image": "POOL_45101912A1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "02178312",
+      "version": "_",
+      "title": "SPOTLIGHT",
+      "image": "POOL_42382712_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "02178412",
+      "version": "_",
+      "title": "SPOTLIGHT",
+      "image": "POOL_42382812_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "67213940",
+      "version": "D",
+      "title": "LAMP CARRIER",
+      "image": "POOL_45101912A1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "02178512",
+      "version": "_",
+      "title": "SPOTLIGHT",
+      "image": "POOL_42382712_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "02178612",
+      "version": "_",
+      "title": "SPOTLIGHT",
+      "image": "POOL_42382812_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "67214140",
+      "version": "D",
+      "title": "LAMP CARRIER",
+      "image": "POOL_45101812A1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "67214240",
+      "version": "D",
+      "title": "LAMP CARRIER",
+      "image": "POOL_45101812A1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "45365012",
+      "version": "_",
+      "title": "MOUNTING BATTERY",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "45127412",
+      "version": "_",
+      "title": "BATTERY ARR.",
+      "image": "POOL_45127412_1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "16099940",
+      "version": "_",
+      "title": "FUSE BOX",
+      "image": "POOL_48052412_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "45364812",
+      "version": "_",
+      "title": "BATTERY ARR. COLD WEATHER DESIGN",
+      "image": "POOL_45364812_1.TIF_.jpg",
+      "partCount": 15,
+      "hasDiagram": true
+    },
+    {
+      "id": "45265312",
+      "version": "A",
+      "title": "45265312",
+      "image": "POOL_45265312A1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "19206312",
+      "version": "_",
+      "title": "MOUNTING EXHAUST SYSTEM",
+      "image": "POOL_45097912A1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "19206212",
+      "version": "_",
+      "title": "EXHAUST SYSTEM WITH SPARK ARRESTER",
+      "image": "POOL_45098012_1.TIF_.jpg",
+      "partCount": 17,
+      "hasDiagram": true
+    },
+    {
+      "id": "19625712",
+      "version": "A",
+      "title": "AIR FILTER SYSTEM",
+      "image": "POOL_45266212A1.TIF_.jpg",
+      "partCount": 18,
+      "hasDiagram": true
+    },
+    {
+      "id": "02145812",
+      "version": "_",
+      "title": "AIR FILTER",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "19629712",
+      "version": "A",
+      "title": "19629712",
+      "image": "POOL_45267512A1.TIF_.jpg",
+      "partCount": 22,
+      "hasDiagram": true
+    },
+    {
+      "id": "45265412",
+      "version": "A",
+      "title": "45265412",
+      "image": "POOL_45265412A1.TIF_.jpg",
+      "partCount": 29,
+      "hasDiagram": true
+    },
+    {
+      "id": "12291512",
+      "version": "A",
+      "title": "OIL SYSTEM",
+      "image": "POOL_45291712_1.TIF_.jpg",
+      "partCount": 15,
+      "hasDiagram": true
+    },
+    {
+      "id": "12291112",
+      "version": "_",
+      "title": "OIL FILLER",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "19468412",
+      "version": "_",
+      "title": "DIESEL ENGINE",
+      "image": "POOL_45325312_1.TIF_.jpg",
+      "partCount": 18,
+      "hasDiagram": true
+    },
+    {
+      "id": "42079112",
+      "version": "_",
+      "title": "FUEL FILTER ELEMENT",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "42100712",
+      "version": "_",
+      "title": "EXHAUST BRAKE",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "47044112",
+      "version": "_",
+      "title": "STARTER",
+      "image": "POOL_41719212_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "47097412",
+      "version": "_",
+      "title": "AIR CONDITIONING COMPRESSOR",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "30748812",
+      "version": "A",
+      "title": "GEARBOX ZF-16AS2602IT",
+      "image": "POOL_42561412A1.TIF_.jpg",
+      "partCount": 27,
+      "hasDiagram": true
+    },
+    {
+      "id": "41781312",
+      "version": "_",
+      "title": "TEMPERATURE TRANSMITTER",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "42285912",
+      "version": "_",
+      "title": "TRANSMISSION ACTUATOR",
+      "image": "POOL_42285912_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "42288712",
+      "version": "_",
+      "title": "PUMP",
+      "image": "POOL_42288712_1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "42294612",
+      "version": "_",
+      "title": "ACCUMULATOR",
+      "image": "POOL_42294612_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "45331912",
+      "version": "_",
+      "title": "PUMP GROUP",
+      "image": "POOL_45331912_1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "19354812",
+      "version": "_",
+      "title": "PUMP COMBINATION",
+      "image": "POOL_41566412_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "41570512",
+      "version": "_",
+      "title": "VARIABLE DISPLACEMENT PUMP",
+      "image": "POOL_41626912_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "41544712",
+      "version": "_",
+      "title": "CONTROL VALVE",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "41571012",
+      "version": "_",
+      "title": "Basic unit",
+      "image": "POOL_41571012_1.TIF_.jpg",
+      "partCount": 24,
+      "hasDiagram": true
+    },
+    {
+      "id": "41570612",
+      "version": "_",
+      "title": "VARIABLE DISPLACEMENT PUMP",
+      "image": "POOL_41626912_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "41556412",
+      "version": "_",
+      "title": "adapter",
+      "image": "POOL_41293912_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "41571212",
+      "version": "_",
+      "title": "Basic unit",
+      "image": "POOL_41571212_1.TIF_.jpg",
+      "partCount": 23,
+      "hasDiagram": true
+    },
+    {
+      "id": "41830212",
+      "version": "_",
+      "title": "POWER UNIT",
+      "image": "POOL_41830212_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "80555873",
+      "version": "_",
+      "title": "ADJUSTING SEGMENT",
+      "image": "POOL_47086312_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "45332012",
+      "version": "_",
+      "title": "ENGINE CONTROL",
+      "image": "POOL_45332012_1.TIF_.jpg",
+      "partCount": 18,
+      "hasDiagram": true
+    },
+    {
+      "id": "45332112",
+      "version": "_",
+      "title": "COOLING SYSTEM PNEUMATIC",
+      "image": "POOL_45332112_1.TIF_.jpg",
+      "partCount": 18,
+      "hasDiagram": true
+    },
+    {
+      "id": "45271612",
+      "version": "_",
+      "title": "Cooling System",
+      "image": "POOL_45271612_1.TIF_.jpg",
+      "partCount": 30,
+      "hasDiagram": true
+    },
+    {
+      "id": "45332212",
+      "version": "_",
+      "title": "MOUNTING RADIATOR",
+      "image": "POOL_45332212_1.TIF_.jpg",
+      "partCount": 30,
+      "hasDiagram": true
+    },
+    {
+      "id": "45332312",
+      "version": "_",
+      "title": "MOUNTING AUX. RADIATOR",
+      "image": "POOL_45332312_1.TIF_.jpg",
+      "partCount": 18,
+      "hasDiagram": true
+    },
+    {
+      "id": "19495612",
+      "version": "_",
+      "title": "RADIATOR",
+      "image": "POOL_45282812_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "55133640",
+      "version": "_",
+      "title": "EXPANSION TANK",
+      "image": "POOL_41299412_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "45323512",
+      "version": "A",
+      "title": "45323512",
+      "image": "POOL_45323512_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "19674412",
+      "version": "_",
+      "title": "DIESEL HEATER",
+      "image": "POOL_40728312_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "27486912",
+      "version": "_",
+      "title": "ELECTRIC",
+      "image": "POOL_43410212_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "45331412",
+      "version": "A",
+      "title": "45331412",
+      "image": "POOL_45331412_1.TIF_.jpg",
+      "partCount": 23,
+      "hasDiagram": true
+    },
+    {
+      "id": "12676812",
+      "version": "I",
+      "title": "12676812",
+      "image": "POOL_45095012I1.TIF_.jpg",
+      "partCount": 42,
+      "hasDiagram": true
+    },
+    {
+      "id": "00218012",
+      "version": "_",
+      "title": "FUEL TANK TRANSMITTER",
+      "image": "POOL_43402812_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "12676712",
+      "version": "H",
+      "title": "12676712",
+      "image": "POOL_45095112_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "12804612",
+      "version": "_",
+      "title": "FILLER",
+      "image": "POOL_45101012_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "45114612",
+      "version": "_",
+      "title": "FILLER CAP",
+      "image": "POOL_45095212_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "45331612",
+      "version": "A",
+      "title": "45331612",
+      "image": "POOL_45331612_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "19608412",
+      "version": "_",
+      "title": "FUEL OIL TANK",
+      "image": "POOL_45100912A1.TIF_.jpg",
+      "partCount": 49,
+      "hasDiagram": true
+    },
+    {
+      "id": "45331712",
+      "version": "A",
+      "title": "45331712",
+      "image": "POOL_45331712_1.TIF_.jpg",
+      "partCount": 41,
+      "hasDiagram": true
+    },
+    {
+      "id": "45332412",
+      "version": "_",
+      "title": "AIR FILTER SYSTEM PRESEPERATOR",
+      "image": "POOL_45332412_1.TIF_.jpg",
+      "partCount": 15,
+      "hasDiagram": true
+    },
+    {
+      "id": "45287512",
+      "version": "D",
+      "title": "45287512",
+      "image": "POOL_45287512B1.TIF_.jpg",
+      "partCount": 20,
+      "hasDiagram": true
+    },
+    {
+      "id": "45287612",
+      "version": "E",
+      "title": "45287612",
+      "image": "POOL_45287612B1.TIF_.jpg",
+      "partCount": 15,
+      "hasDiagram": true
+    },
+    {
+      "id": "45140212",
+      "version": "D",
+      "title": "45140212",
+      "image": "POOL_45140212D1.TIF_.jpg",
+      "partCount": 17,
+      "hasDiagram": true
+    },
+    {
+      "id": "27591112",
+      "version": "_",
+      "title": "EXTERIOR MIRROR",
+      "image": "POOL_43412112_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "28062612",
+      "version": "_",
+      "title": "MIRROR",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "28320812",
+      "version": "_",
+      "title": "EXTERIOR MIRROR",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "52032012",
+      "version": "_",
+      "title": "PANORAMIC MIRROR",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "54352012",
+      "version": "A",
+      "title": "54352012",
+      "image": "POOL_47293712A1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "45140412",
+      "version": "B",
+      "title": "45140412",
+      "image": "POOL_45140412B1.TIF_.jpg",
+      "partCount": 21,
+      "hasDiagram": true
+    },
+    {
+      "id": "30504712",
+      "version": "_",
+      "title": "STEERING COLUMN",
+      "image": "POOL_45288112_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "30504812",
+      "version": "_",
+      "title": "STEERING WHEEL",
+      "image": "POOL_40672312_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "65511440",
+      "version": "_",
+      "title": "IGNITION SWITCH",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "45288212",
+      "version": "_",
+      "title": "MOUNTING SEAT",
+      "image": "POOL_45288212_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "17392712",
+      "version": "_",
+      "title": "DRIVER SEAT",
+      "image": "POOL_47122712_1.TIF_.jpg",
+      "partCount": 23,
+      "hasDiagram": true
+    },
+    {
+      "id": "42249712",
+      "version": "_",
+      "title": "SEAT CUSHION",
+      "image": "POOL_42249712_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "42249912",
+      "version": "_",
+      "title": "SEAT CUSHION",
+      "image": "POOL_42249912_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "17392812",
+      "version": "_",
+      "title": "CO-DRIVER'S SEAT",
+      "image": "POOL_47122912_1.TIF_.jpg",
+      "partCount": 22,
+      "hasDiagram": true
+    },
+    {
+      "id": "41309812",
+      "version": "_",
+      "title": "SEAT CUSHION",
+      "image": "POOL_41309812_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "45288312",
+      "version": "A",
+      "title": "45288312",
+      "image": "POOL_45288312A1.TIF_.jpg",
+      "partCount": 41,
+      "hasDiagram": true
+    },
+    {
+      "id": "27586712",
+      "version": "A",
+      "title": "PRESSURE INDICATOR",
+      "image": "POOL_47209712_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "45288412",
+      "version": "A",
+      "title": "45288412",
+      "image": "POOL_45288412_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "54381712",
+      "version": "_",
+      "title": "BUMPER BRACE",
+      "image": "POOL_44219612_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "45288512",
+      "version": "_",
+      "title": "Steps",
+      "image": "POOL_45288512_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "45288712",
+      "version": "B",
+      "title": "45288712",
+      "image": "POOL_45288712A1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "22932512",
+      "version": "A",
+      "title": "22932512",
+      "image": "POOL_40533912_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "22425112",
+      "version": "F",
+      "title": "22425112",
+      "image": "POOL_40532912B1.TIF_.jpg",
+      "partCount": 30,
+      "hasDiagram": true
+    },
+    {
+      "id": "02144412",
+      "version": "B",
+      "title": "COOLANT HEATER",
+      "image": "POOL_42307912B1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "46055412",
+      "version": "_",
+      "title": "HEATER ASSEMBLY",
+      "image": "POOL_46055412_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "42309112",
+      "version": "_",
+      "title": "HEATER, BASIC ASSY.",
+      "image": "POOL_42307812_1.TIF_.jpg",
+      "partCount": 31,
+      "hasDiagram": true
+    },
+    {
+      "id": "45288812",
+      "version": "_",
+      "title": "Heater",
+      "image": "POOL_45288812_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "45288912",
+      "version": "_",
+      "title": "Air Conditioning Equipment",
+      "image": "POOL_45288912_1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "40532512",
+      "version": "_",
+      "title": "DRYING APPARATUS",
+      "image": "POOL_40532512_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "47407412",
+      "version": "_",
+      "title": "HEATER ASSEMBLY",
+      "image": "POOL_47407412_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "40532612",
+      "version": "_",
+      "title": "OPERATION BUTTON",
+      "image": "POOL_40532612_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "56986112",
+      "version": "_",
+      "title": "climate control unit",
+      "image": "POOL_47407112_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "56986612",
+      "version": "_",
+      "title": "MOUNTING GAS HEATING",
+      "image": "POOL_43381812_1.TIF_.jpg",
+      "partCount": 14,
+      "hasDiagram": true
+    },
+    {
+      "id": "52083512",
+      "version": "_",
+      "title": "gas heating",
+      "image": "POOL_47239612_1.TIF_.jpg",
+      "partCount": 25,
+      "hasDiagram": true
+    },
+    {
+      "id": "42328412",
+      "version": "_",
+      "title": "HARNESS",
+      "image": "POOL_42328412_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "45289012",
+      "version": "_",
+      "title": "COVERING",
+      "image": "POOL_45289012_1.TIF_.jpg",
+      "partCount": 23,
+      "hasDiagram": true
+    },
+    {
+      "id": "40528412",
+      "version": "_",
+      "title": "LOCKING",
+      "image": "POOL_40528412_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "47088612",
+      "version": "_",
+      "title": "COVER",
+      "image": "POOL_47108212_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "47103912",
+      "version": "_",
+      "title": "SEAT PLATE",
+      "image": "POOL_47108312_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "47026412",
+      "version": "_",
+      "title": "HINGE",
+      "image": "POOL_47108412_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "47108912",
+      "version": "_",
+      "title": "COVER",
+      "image": "POOL_47109012_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "47109412",
+      "version": "_",
+      "title": "COVER",
+      "image": "POOL_47109412_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "47100112",
+      "version": "_",
+      "title": "Glazing",
+      "image": "POOL_47101612_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "47100212",
+      "version": "_",
+      "title": "Mounting Door",
+      "image": "POOL_47122212_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "40528112",
+      "version": "_",
+      "title": "LOCKING WEDGE",
+      "image": "POOL_40528112_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "47027712",
+      "version": "_",
+      "title": "BAFFLE",
+      "image": "POOL_47027712_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "47107312",
+      "version": "_",
+      "title": "ELECTRIC",
+      "image": "POOL_47107412_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "47110112",
+      "version": "_",
+      "title": "DOOR",
+      "image": "POOL_47107812_1.TIF_.jpg",
+      "partCount": 54,
+      "hasDiagram": true
+    },
+    {
+      "id": "47110012",
+      "version": "_",
+      "title": "DOOR",
+      "image": "POOL_47107712_1.TIF_.jpg",
+      "partCount": 54,
+      "hasDiagram": true
+    },
+    {
+      "id": "40527712",
+      "version": "_",
+      "title": "HANDLE",
+      "image": "POOL_40527712_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "40599212",
+      "version": "_",
+      "title": "HANDLE",
+      "image": "POOL_40621712_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "40527812",
+      "version": "_",
+      "title": "HANDLE",
+      "image": "POOL_40527812_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "47030312",
+      "version": "_",
+      "title": "BAFFLE",
+      "image": "POOL_47027712_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "47107512",
+      "version": "_",
+      "title": "ELECTRIC",
+      "image": "POOL_47107612_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "47100512",
+      "version": "_",
+      "title": "WIPER EQUIPMENT",
+      "image": "POOL_47103412_1.TIF_.jpg",
+      "partCount": 16,
+      "hasDiagram": true
+    },
+    {
+      "id": "40600212",
+      "version": "_",
+      "title": "WIPER ARM",
+      "image": "POOL_40600212_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "47100912",
+      "version": "_",
+      "title": "SUN PROTECTION",
+      "image": "POOL_47100912_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "47042512",
+      "version": "_",
+      "title": "SUN PROTECTION",
+      "image": "POOL_47042512_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "47110512",
+      "version": "_",
+      "title": "SUN PROTECTION",
+      "image": "POOL_47111312_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "47111212",
+      "version": "_",
+      "title": "HINGED BED",
+      "image": "POOL_47111412_1.TIF_.jpg",
+      "partCount": 17,
+      "hasDiagram": true
+    },
+    {
+      "id": "47205912",
+      "version": "_",
+      "title": "FIRE EXTINGUISHER",
+      "image": "POOL_47205912_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "45288612",
+      "version": "_",
+      "title": "FIRE EXTINGUISHER STANDARD",
+      "image": "POOL_45288612_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "47206012",
+      "version": "_",
+      "title": "FIRE EXTINGUISHER FRANCE ARR.",
+      "image": "POOL_47206012_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "47206112",
+      "version": "_",
+      "title": "FIRE EXTINGUISHER BELGIUM ARR.",
+      "image": "POOL_47206112_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "45294012",
+      "version": "B",
+      "title": "45294012",
+      "image": "POOL_45294012A1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "45294112",
+      "version": "B",
+      "title": "45294112",
+      "image": "POOL_45294112B1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "19793812",
+      "version": "_",
+      "title": "TIRES MICHELIN 385/95 R25 170F ET70",
+      "image": "POOL_45091612_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "19793912",
+      "version": "_",
+      "title": "WHEEL",
+      "image": "POOL_45091712_1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "45365312",
+      "version": "_",
+      "title": "TIRES MAGNA 385/95 R25 MA03 170F ET70",
+      "image": "POOL_45365312_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "51221812",
+      "version": "_",
+      "title": "WHEEL",
+      "image": "POOL_45365412_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "55611512",
+      "version": "A",
+      "title": "55611512",
+      "image": "POOL_45091612_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "55593212",
+      "version": "_",
+      "title": "wheel",
+      "image": "POOL_44385212_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "45294212",
+      "version": "A",
+      "title": "45294212",
+      "image": "POOL_45294212A1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "19794212",
+      "version": "A",
+      "title": "19794212",
+      "image": "POOL_45091612_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "56892812",
+      "version": "_",
+      "title": "wheel",
+      "image": "POOL_44385212_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "19876712",
+      "version": "_",
+      "title": "TIRES YOKOHAMA 445/95 RB01 177E ET93",
+      "image": "POOL_45091612_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "19876812",
+      "version": "_",
+      "title": "WHEEL",
+      "image": "POOL_45091712_1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "55611612",
+      "version": "A",
+      "title": "55611612",
+      "image": "POOL_45091612_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "56893112",
+      "version": "_",
+      "title": "wheel",
+      "image": "POOL_44385212_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "55611712",
+      "version": "A",
+      "title": "55611712",
+      "image": "POOL_45091612_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "56893412",
+      "version": "_",
+      "title": "wheel",
+      "image": "POOL_44385212_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "45294312",
+      "version": "A",
+      "title": "45294312",
+      "image": "POOL_45294312A1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "12798212",
+      "version": "A",
+      "title": "12798212",
+      "image": "POOL_45091512_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "55593312",
+      "version": "_",
+      "title": "wheel",
+      "image": "POOL_44385212_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "45294412",
+      "version": "A",
+      "title": "45294412",
+      "image": "POOL_45294412A1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "12792612",
+      "version": "A",
+      "title": "12792612",
+      "image": "POOL_45091612_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "56894112",
+      "version": "_",
+      "title": "WHEEL",
+      "image": "POOL_45365412_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "12798612",
+      "version": "A",
+      "title": "12798612",
+      "image": "POOL_45091612_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "56894512",
+      "version": "_",
+      "title": "wheel",
+      "image": "POOL_44385212_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "57285612",
+      "version": "_",
+      "title": "TECHKING 525/80 R25 ETGC 177F ET56,5",
+      "image": "POOL_45091612_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "57285112",
+      "version": "_",
+      "title": "wheel",
+      "image": "POOL_44385212_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "45328312",
+      "version": "_",
+      "title": "TRAVELLING MECHANISM",
+      "image": "POOL_45328312_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "12644512",
+      "version": "E",
+      "title": "12644512",
+      "image": "POOL_47165212_1.TIF_.jpg",
+      "partCount": 16,
+      "hasDiagram": true
+    },
+    {
+      "id": "31404612",
+      "version": "_",
+      "title": "STEERING ROD",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "31404712",
+      "version": "_",
+      "title": "STEERING ROD",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "31404812",
+      "version": "_",
+      "title": "STEERING ROD",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "31404912",
+      "version": "_",
+      "title": "STEERING ROD",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "51552640",
+      "version": "_",
+      "title": "STEERING",
+      "image": "POOL_20749012_1.TIF_.jpg",
+      "partCount": 28,
+      "hasDiagram": true
+    },
+    {
+      "id": "41294212",
+      "version": "_",
+      "title": "REPLENISH. VALVE",
+      "image": "POOL_41294212_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "97940573",
+      "version": "_",
+      "title": "SEAL KIT",
+      "image": "POOL_42371112_1.TIF_.jpg",
+      "partCount": 17,
+      "hasDiagram": true
+    },
+    {
+      "id": "45328012",
+      "version": "_",
+      "title": "AXLE MOUNTING",
+      "image": "POOL_45328012_1.TIF_.jpg",
+      "partCount": 30,
+      "hasDiagram": true
+    },
+    {
+      "id": "12494612",
+      "version": "A",
+      "title": "SUSPENSION CYLINDER",
+      "image": "POOL_20898312_1.TIF_.jpg",
+      "partCount": 32,
+      "hasDiagram": true
+    },
+    {
+      "id": "12494712",
+      "version": "A",
+      "title": "SUSPENSION CYLINDER",
+      "image": "POOL_20898312_1.TIF_.jpg",
+      "partCount": 32,
+      "hasDiagram": true
+    },
+    {
+      "id": "42235412",
+      "version": "_",
+      "title": "SEAL KIT",
+      "image": "POOL_40315612_1.TIF_.jpg",
+      "partCount": 14,
+      "hasDiagram": true
+    },
+    {
+      "id": "12552512",
+      "version": "A",
+      "title": "SUSPENSION CYLINDER",
+      "image": "POOL_20898412_1.TIF_.jpg",
+      "partCount": 25,
+      "hasDiagram": true
+    },
+    {
+      "id": "40132512",
+      "version": "_",
+      "title": "SEAL KIT",
+      "image": "POOL_47025812_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "12552612",
+      "version": "A",
+      "title": "SUSPENSION CYLINDER",
+      "image": "POOL_20898412_1.TIF_.jpg",
+      "partCount": 25,
+      "hasDiagram": true
+    },
+    {
+      "id": "45287412",
+      "version": "_",
+      "title": "Distributor Gear-Cooling",
+      "image": "POOL_45287412_1.TIF_.jpg",
+      "partCount": 14,
+      "hasDiagram": true
+    },
+    {
+      "id": "51177412",
+      "version": "A",
+      "title": "51177412",
+      "image": "POOL_45325412_1.TIF_.jpg",
+      "partCount": 36,
+      "hasDiagram": true
+    },
+    {
+      "id": "12494412",
+      "version": "_",
+      "title": "AXLE BRACE",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "45062040",
+      "version": "_",
+      "title": "KNUCKLE",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "51179112",
+      "version": "A",
+      "title": "51179112",
+      "image": "POOL_45325512_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "51179812",
+      "version": "_",
+      "title": "Steering axle",
+      "image": "POOL_48306612_1.TIF_.jpg",
+      "partCount": 52,
+      "hasDiagram": true
+    },
+    {
+      "id": "48273412",
+      "version": "_",
+      "title": "BRAKE",
+      "image": "POOL_48273412_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "48273512",
+      "version": "_",
+      "title": "BRAKE",
+      "image": "POOL_48273512_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "48313912",
+      "version": "_",
+      "title": "Brake lining kit",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "76320573",
+      "version": "_",
+      "title": "STEERING TRACK ROD",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "60482840",
+      "version": "A",
+      "title": "STEERING CYLINDER",
+      "image": "POOL_20645112_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "51177512",
+      "version": "A",
+      "title": "51177512",
+      "image": "POOL_45325612_1.TIF_.jpg",
+      "partCount": 36,
+      "hasDiagram": true
+    },
+    {
+      "id": "51179212",
+      "version": "A",
+      "title": "51179212",
+      "image": "POOL_45325712_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "51179912",
+      "version": "_",
+      "title": "STEERING DRIVE AXLE A1",
+      "image": "POOL_48306812_1.TIF_.jpg",
+      "partCount": 54,
+      "hasDiagram": true
+    },
+    {
+      "id": "48277212",
+      "version": "_",
+      "title": "Planetary gear",
+      "image": "POOL_48275412_1.TIF_.jpg",
+      "partCount": 21,
+      "hasDiagram": true
+    },
+    {
+      "id": "48306712",
+      "version": "_",
+      "title": "Axle drive",
+      "image": "POOL_48358112_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "76320273",
+      "version": "_",
+      "title": "CROSSTIE",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "60467840",
+      "version": "A",
+      "title": "STEERING CYLINDER",
+      "image": "POOL_20645112_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "51177612",
+      "version": "_",
+      "title": "Axle 3",
+      "image": "POOL_45325812_1.TIF_.jpg",
+      "partCount": 39,
+      "hasDiagram": true
+    },
+    {
+      "id": "51179312",
+      "version": "_",
+      "title": "Hose",
+      "image": "POOL_45325912_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "51200812",
+      "version": "_",
+      "title": "Axle",
+      "image": "POOL_48324512_1.TIF_.jpg",
+      "partCount": 23,
+      "hasDiagram": true
+    },
+    {
+      "id": "48275412",
+      "version": "_",
+      "title": "Planetary gear",
+      "image": "POOL_48275412_1.TIF_.jpg",
+      "partCount": 21,
+      "hasDiagram": true
+    },
+    {
+      "id": "48324312",
+      "version": "_",
+      "title": "Axle drive",
+      "image": "POOL_48324312_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "48324412",
+      "version": "_",
+      "title": "Distributor gear",
+      "image": "POOL_48324412_1.TIF_.jpg",
+      "partCount": 36,
+      "hasDiagram": true
+    },
+    {
+      "id": "65434040",
+      "version": "_",
+      "title": "PISTON PUMP",
+      "image": "POOL_47041012_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "67228440",
+      "version": "_",
+      "title": "AXLE BRACE",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "51177712",
+      "version": "A",
+      "title": "51177712",
+      "image": "POOL_45326012_1.TIF_.jpg",
+      "partCount": 37,
+      "hasDiagram": true
+    },
+    {
+      "id": "19482812",
+      "version": "_",
+      "title": "STEERING CYLINDER",
+      "image": "POOL_20645112_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "51179412",
+      "version": "A",
+      "title": "51179412",
+      "image": "POOL_45326112_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "51201012",
+      "version": "_",
+      "title": "Steering drive axle",
+      "image": "POOL_48307312_1.TIF_.jpg",
+      "partCount": 54,
+      "hasDiagram": true
+    },
+    {
+      "id": "48307212",
+      "version": "_",
+      "title": "Axle drive",
+      "image": "POOL_48246712_1.TIF_.jpg",
+      "partCount": 19,
+      "hasDiagram": true
+    },
+    {
+      "id": "76320173",
+      "version": "_",
+      "title": "CROSSTIE",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "51177812",
+      "version": "_",
+      "title": "Axle 5",
+      "image": "POOL_45326212_1.TIF_.jpg",
+      "partCount": 32,
+      "hasDiagram": true
+    },
+    {
+      "id": "19482912",
+      "version": "_",
+      "title": "STEERING CYLINDER",
+      "image": "POOL_40636212_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "51179512",
+      "version": "_",
+      "title": "Hose",
+      "image": "POOL_45326312_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "51201212",
+      "version": "_",
+      "title": "Steering drive axle",
+      "image": "POOL_48307612_1.TIF_.jpg",
+      "partCount": 53,
+      "hasDiagram": true
+    },
+    {
+      "id": "48307512",
+      "version": "_",
+      "title": "Axle drive",
+      "image": "POOL_48358112_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "76320373",
+      "version": "_",
+      "title": "CROSSTIE",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "45337812",
+      "version": "B",
+      "title": "45337812",
+      "image": "POOL_45337812_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "17524012",
+      "version": "B",
+      "title": "17524012",
+      "image": "POOL_46066012_1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "29020912",
+      "version": "B",
+      "title": "29020912",
+      "image": "POOL_46070912A1.TIF_.jpg",
+      "partCount": 28,
+      "hasDiagram": true
+    },
+    {
+      "id": "28660112",
+      "version": "C",
+      "title": "28660112",
+      "image": "POOL_40709912B1.TIF_.jpg",
+      "partCount": 22,
+      "hasDiagram": true
+    },
+    {
+      "id": "45079312",
+      "version": "_",
+      "title": "HOOK BLOCKS / SINGLE LINE HOOKS",
+      "image": "POOL_45079312_1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "17267612",
+      "version": "_",
+      "title": "HOOK BLOCK 32-1/21-E",
+      "image": "POOL_47025012_1.TIF_.jpg",
+      "partCount": 32,
+      "hasDiagram": true
+    },
+    {
+      "id": "17267712",
+      "version": "_",
+      "title": "HOOK BLOCK 32-1/21-D",
+      "image": "POOL_47025112_1.TIF_.jpg",
+      "partCount": 32,
+      "hasDiagram": true
+    },
+    {
+      "id": "17267812",
+      "version": "_",
+      "title": "HOOK BLOCK 80-3/21-D",
+      "image": "POOL_47050612_1.TIF_.jpg",
+      "partCount": 31,
+      "hasDiagram": true
+    },
+    {
+      "id": "17267912",
+      "version": "_",
+      "title": "HOOK BLOCK 125-5/21-D",
+      "image": "POOL_47024112_1.TIF_.jpg",
+      "partCount": 29,
+      "hasDiagram": true
+    },
+    {
+      "id": "17268012",
+      "version": "_",
+      "title": "HOOK BLOCK 160-7/21-D",
+      "image": "POOL_47024212_1.TIF_.jpg",
+      "partCount": 27,
+      "hasDiagram": true
+    },
+    {
+      "id": "17268112",
+      "version": "_",
+      "title": "Hook block 200-9/21-D",
+      "image": "POOL_47025312_1.TIF_.jpg",
+      "partCount": 33,
+      "hasDiagram": true
+    },
+    {
+      "id": "17268312",
+      "version": "_",
+      "title": "HOOK BLOCK 80-3/21-E",
+      "image": "POOL_47024412_1.TIF_.jpg",
+      "partCount": 31,
+      "hasDiagram": true
+    },
+    {
+      "id": "17268412",
+      "version": "_",
+      "title": "HOOK SUSPENSION 12,5-0/21-E",
+      "image": "POOL_47024912_1.TIF_.jpg",
+      "partCount": 14,
+      "hasDiagram": true
+    },
+    {
+      "id": "28077112",
+      "version": "_",
+      "title": "HOOK SUSPENSION 12,5-0/21-E",
+      "image": "POOL_48242012_1.TIF_.jpg",
+      "partCount": 15,
+      "hasDiagram": true
+    },
+    {
+      "id": "28079112",
+      "version": "_",
+      "title": "special hook block 80-3/21-D",
+      "image": "POOL_48244112_1.TIF_.jpg",
+      "partCount": 31,
+      "hasDiagram": true
+    },
+    {
+      "id": "45337312",
+      "version": "A",
+      "title": "45337312",
+      "image": "POOL_45337312_1.TIF_.jpg",
+      "partCount": 16,
+      "hasDiagram": true
+    },
+    {
+      "id": "23107512",
+      "version": "D",
+      "title": "23107512",
+      "image": "POOL_45226612_1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "19450512",
+      "version": "A",
+      "title": "19450512",
+      "image": "POOL_44228712_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "19450612",
+      "version": "A",
+      "title": "19450612",
+      "image": "POOL_44228812_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "45333212",
+      "version": "B",
+      "title": "45333212",
+      "image": "POOL_45333212_1.TIF_.jpg",
+      "partCount": 21,
+      "hasDiagram": true
+    },
+    {
+      "id": "45367312",
+      "version": "A",
+      "title": "45367312",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "39359312",
+      "version": "_",
+      "title": "SHEAVE kpl St SD21 x D462 x AD524",
+      "image": "POOL_45093612_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "45333712",
+      "version": "_",
+      "title": "TRAVEL LOCK",
+      "image": "POOL_45333712_1.TIF_.jpg",
+      "partCount": 54,
+      "hasDiagram": true
+    },
+    {
+      "id": "23112012",
+      "version": "B",
+      "title": "23112012",
+      "image": "POOL_40286612B1.TIF_.jpg",
+      "partCount": 29,
+      "hasDiagram": true
+    },
+    {
+      "id": "21763112",
+      "version": "_",
+      "title": "CYLINDER",
+      "image": "POOL_42358512_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "42357212",
+      "version": "_",
+      "title": "SEAL KIT",
+      "image": "POOL_42357212_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "27358212",
+      "version": "A",
+      "title": "27358212",
+      "image": "POOL_44227412_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "23085512",
+      "version": "_",
+      "title": "STEERING CYLINDER",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "28062012",
+      "version": "_",
+      "title": "RAILWAY CPL AC200-1",
+      "image": "POOL_45117212A1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "45333812",
+      "version": "_",
+      "title": "TRAVEL LOCK",
+      "image": "POOL_45333812_1.TIF_.jpg",
+      "partCount": 57,
+      "hasDiagram": true
+    },
+    {
+      "id": "45334112",
+      "version": "A",
+      "title": "45334112",
+      "image": "POOL_45334112_1.TIF_.jpg",
+      "partCount": 77,
+      "hasDiagram": true
+    },
+    {
+      "id": "22395512",
+      "version": "A",
+      "title": "22395512",
+      "image": "POOL_43402112_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "27327312",
+      "version": "_",
+      "title": "CYLINDER ASSY.",
+      "image": "POOL_45243812_1.TIF_.jpg",
+      "partCount": 28,
+      "hasDiagram": true
+    },
+    {
+      "id": "45243212",
+      "version": "_",
+      "title": "VALVE",
+      "image": "POOL_40363012_1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "45243912",
+      "version": "_",
+      "title": "SEAL KIT",
+      "image": "POOL_45243912_1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "27327412",
+      "version": "_",
+      "title": "CYLINDER ASSY.",
+      "image": "POOL_45243712_1.TIF_.jpg",
+      "partCount": 18,
+      "hasDiagram": true
+    },
+    {
+      "id": "44390612",
+      "version": "_",
+      "title": "GUIDE SHEAVE",
+      "image": "POOL_44390612_1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "45367412",
+      "version": "A",
+      "title": "45367412",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "45334212",
+      "version": "_",
+      "title": "EXTENSION 2",
+      "image": "POOL_45334212_1.TIF_.jpg",
+      "partCount": 23,
+      "hasDiagram": true
+    },
+    {
+      "id": "39358712",
+      "version": "_",
+      "title": "extension 2 cpl hydr cannon",
+      "image": "POOL_45334812_1.TIF_.jpg",
+      "partCount": 48,
+      "hasDiagram": true
+    },
+    {
+      "id": "58667740",
+      "version": "C",
+      "title": "TOP ROLLER",
+      "image": "POOL_40360212_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "45334312",
+      "version": "_",
+      "title": "EXTENSION 1",
+      "image": "POOL_45334312_1.TIF_.jpg",
+      "partCount": 43,
+      "hasDiagram": true
+    },
+    {
+      "id": "00146712",
+      "version": "_",
+      "title": "HAND WINCH",
+      "image": "POOL_46546212_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "41748812",
+      "version": "_",
+      "title": "Rope reel with rope",
+      "image": "POOL_41748812_1.TIF_.jpg",
+      "partCount": 1,
+      "hasDiagram": true
+    },
+    {
+      "id": "39356312",
+      "version": "_",
+      "title": "Boom section 1 angle adjustable",
+      "image": "POOL_45334712_1.TIF_.jpg",
+      "partCount": 50,
+      "hasDiagram": true
+    },
+    {
+      "id": "45334412",
+      "version": "A",
+      "title": "45334412",
+      "image": "POOL_45334412A1.TIF_.jpg",
+      "partCount": 16,
+      "hasDiagram": true
+    },
+    {
+      "id": "22066612",
+      "version": "C",
+      "title": "22066612",
+      "image": "POOL_40689712C1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "27422212",
+      "version": "A",
+      "title": "DISTRIBUTION BOX X 0560",
+      "image": "POOL_45335312_1.TIF_.jpg",
+      "partCount": 27,
+      "hasDiagram": true
+    },
+    {
+      "id": "27422912",
+      "version": "_",
+      "title": "DISTRIBUTION BOX X 0580",
+      "image": "POOL_45335412_1.TIF_.jpg",
+      "partCount": 29,
+      "hasDiagram": true
+    },
+    {
+      "id": "28661712",
+      "version": "A",
+      "title": "28661712",
+      "image": "POOL_45333012_1.TIF_.jpg",
+      "partCount": 19,
+      "hasDiagram": true
+    },
+    {
+      "id": "28667212",
+      "version": "A",
+      "title": "28667212",
+      "image": "POOL_45335512_1.TIF_.jpg",
+      "partCount": 50,
+      "hasDiagram": true
+    },
+    {
+      "id": "28667512",
+      "version": "A",
+      "title": "28667512",
+      "image": "POOL_45337112_1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "39356412",
+      "version": "A",
+      "title": "39356412",
+      "image": "POOL_45335612A1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "28667712",
+      "version": "A",
+      "title": "28667712",
+      "image": "POOL_45335712A1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "45334512",
+      "version": "_",
+      "title": "MAIN BOOM EXTENSION HYDRAULIC",
+      "image": "POOL_45334512_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "45160612",
+      "version": "A",
+      "title": "45160612",
+      "image": "POOL_45160612A1.TIF_.jpg",
+      "partCount": 19,
+      "hasDiagram": true
+    },
+    {
+      "id": "00202912",
+      "version": "A",
+      "title": "00202912",
+      "image": "POOL_47113712_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "47088812",
+      "version": "_",
+      "title": "Directional spool valve",
+      "image": "POOL_47088812_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "45273412",
+      "version": "_",
+      "title": "Powerpac-Hydraulic",
+      "image": "POOL_45273412_1.TIF_.jpg",
+      "partCount": 69,
+      "hasDiagram": true
+    },
+    {
+      "id": "13216812",
+      "version": "_",
+      "title": "FILTER",
+      "image": "POOL_20689212_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "56707240",
+      "version": "_",
+      "title": "COUPLER PLUG",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45278612",
+      "version": "B",
+      "title": "45278612",
+      "image": "POOL_45278612B1.TIF_.jpg",
+      "partCount": 23,
+      "hasDiagram": true
+    },
+    {
+      "id": "45278712",
+      "version": "B",
+      "title": "45278712",
+      "image": "POOL_45278712B1.TIF_.jpg",
+      "partCount": 17,
+      "hasDiagram": true
+    },
+    {
+      "id": "45334912",
+      "version": "_",
+      "title": "POWER PACK CONNECTION",
+      "image": "POOL_45334912_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "40275112",
+      "version": "_",
+      "title": "DIESEL ENGINE",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45337412",
+      "version": "B",
+      "title": "45337412",
+      "image": "POOL_45337412_1.TIF_.jpg",
+      "partCount": 13,
+      "hasDiagram": true
+    },
+    {
+      "id": "45333112",
+      "version": "B",
+      "title": "45333112",
+      "image": "POOL_45333112A1.TIF_.jpg",
+      "partCount": 74,
+      "hasDiagram": true
+    },
+    {
+      "id": "44387712",
+      "version": "_",
+      "title": "HAND WINCH",
+      "image": "POOL_44387712_1.TIF_.jpg",
+      "partCount": 14,
+      "hasDiagram": true
+    },
+    {
+      "id": "44387812",
+      "version": "_",
+      "title": "HAND PUMP",
+      "image": "POOL_44387812_1.TIF_.jpg",
+      "partCount": 19,
+      "hasDiagram": true
+    },
+    {
+      "id": "25202512",
+      "version": "_",
+      "title": "CYLINDER",
+      "image": "POOL_48398512_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "25203012",
+      "version": "_",
+      "title": "PUMP CPL",
+      "image": "POOL_43408912_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "43408812",
+      "version": "_",
+      "title": "HAND PUMP",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45367512",
+      "version": "A",
+      "title": "45367512",
+      "image": "POOL_45116012C1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "45333312",
+      "version": "_",
+      "title": "EXTENSION 1",
+      "image": "POOL_45333312_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "19974712",
+      "version": "_",
+      "title": "extension 1 weldment",
+      "image": "POOL_45333512_1.TIF_.jpg",
+      "partCount": 32,
+      "hasDiagram": true
+    },
+    {
+      "id": "22970012",
+      "version": "B",
+      "title": "22970012",
+      "image": "POOL_40288712_1.TIF_.jpg",
+      "partCount": 14,
+      "hasDiagram": true
+    },
+    {
+      "id": "22769312",
+      "version": "A",
+      "title": "22769312",
+      "image": null,
+      "partCount": 1,
+      "hasDiagram": false
+    },
+    {
+      "id": "22769712",
+      "version": "A",
+      "title": "22769712",
+      "image": null,
+      "partCount": 1,
+      "hasDiagram": false
+    },
+    {
+      "id": "28593312",
+      "version": "_",
+      "title": "SHEAVE CPL D386 AD448 SD23 PLASTIK",
+      "image": null,
+      "partCount": 1,
+      "hasDiagram": false
+    },
+    {
+      "id": "45333412",
+      "version": "_",
+      "title": "EXTENSION 2",
+      "image": "POOL_45333412_1.TIF_.jpg",
+      "partCount": 19,
+      "hasDiagram": true
+    },
+    {
+      "id": "19972912",
+      "version": "_",
+      "title": "extension 2 weldment",
+      "image": "POOL_45333612_1.TIF_.jpg",
+      "partCount": 50,
+      "hasDiagram": true
+    },
+    {
+      "id": "45333912",
+      "version": "A",
+      "title": "45333912",
+      "image": "POOL_45333912A1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "27423112",
+      "version": "_",
+      "title": "DISTRIBUTION BOX X 0560",
+      "image": "POOL_45309312_1.TIF_.jpg",
+      "partCount": 24,
+      "hasDiagram": true
+    },
+    {
+      "id": "45334012",
+      "version": "_",
+      "title": "MAIN BOOM EXTENSION HYDRAULIC",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45337612",
+      "version": "B",
+      "title": "45337612",
+      "image": "POOL_45337612_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "44390512",
+      "version": "_",
+      "title": "ARRANGEMENT MAIN BOOM",
+      "image": "POOL_44390512_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "16589612",
+      "version": "M",
+      "title": "16589612",
+      "image": "POOL_43410612_1.TIF_.jpg",
+      "partCount": 26,
+      "hasDiagram": true
+    },
+    {
+      "id": "12893812",
+      "version": "B",
+      "title": "JAW CPL.",
+      "image": "POOL_45106712A1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "19055012",
+      "version": "M",
+      "title": "19055012",
+      "image": "POOL_45125612B1.TIF_.jpg",
+      "partCount": 60,
+      "hasDiagram": true
+    },
+    {
+      "id": "19095012",
+      "version": "A",
+      "title": "CYLINDER CPL",
+      "image": "POOL_45125712_1.TIF_.jpg",
+      "partCount": 14,
+      "hasDiagram": true
+    },
+    {
+      "id": "67816840",
+      "version": "A",
+      "title": "CYLINDER",
+      "image": "POOL_45125812_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "45278012",
+      "version": "_",
+      "title": "Boom Hydraulic",
+      "image": "POOL_45278012_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "22400012",
+      "version": "_",
+      "title": "HYDRAULIC PIN LOCKING",
+      "image": "POOL_43381112_1.TIF_.jpg",
+      "partCount": 36,
+      "hasDiagram": true
+    },
+    {
+      "id": "00159212",
+      "version": "_",
+      "title": "ACCUMULATOR",
+      "image": "POOL_47390612_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "45147112",
+      "version": "_",
+      "title": "HYDRAULIC - TELE CYLINDER",
+      "image": "POOL_45147112_1.TIF_.jpg",
+      "partCount": 21,
+      "hasDiagram": true
+    },
+    {
+      "id": "63528440",
+      "version": "_",
+      "title": "FLANGE CONNECTION",
+      "image": "POOL_45285112_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "45291412",
+      "version": "C",
+      "title": "45291412",
+      "image": "POOL_45291412A1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "16485612",
+      "version": "E",
+      "title": "16485612",
+      "image": "POOL_45144812B1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "45289612",
+      "version": "_",
+      "title": "Guide Shoes",
+      "image": null,
+      "partCount": 21,
+      "hasDiagram": false
+    },
+    {
+      "id": "45327012",
+      "version": "_",
+      "title": "ASSEMBLY BASIC CASE",
+      "image": "POOL_45327012_1.TIF_.jpg",
+      "partCount": 45,
+      "hasDiagram": true
+    },
+    {
+      "id": "45327112",
+      "version": "A",
+      "title": "45327112",
+      "image": "POOL_45327112_1.TIF_.jpg",
+      "partCount": 47,
+      "hasDiagram": true
+    },
+    {
+      "id": "17309112",
+      "version": "D",
+      "title": "17309112",
+      "image": "POOL_45092612A1.TIF_.jpg",
+      "partCount": 13,
+      "hasDiagram": true
+    },
+    {
+      "id": "27026812",
+      "version": "A",
+      "title": "27026812",
+      "image": "POOL_45092912_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "30713712",
+      "version": "C",
+      "title": "30713712",
+      "image": "POOL_45092812_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "45327212",
+      "version": "A",
+      "title": "45327212",
+      "image": "POOL_45327212_1.TIF_.jpg",
+      "partCount": 45,
+      "hasDiagram": true
+    },
+    {
+      "id": "17309212",
+      "version": "D",
+      "title": "17309212",
+      "image": "POOL_45092612A1.TIF_.jpg",
+      "partCount": 13,
+      "hasDiagram": true
+    },
+    {
+      "id": "27026912",
+      "version": "A",
+      "title": "27026912",
+      "image": "POOL_45092912_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "45327312",
+      "version": "A",
+      "title": "45327312",
+      "image": "POOL_45327312_1.TIF_.jpg",
+      "partCount": 43,
+      "hasDiagram": true
+    },
+    {
+      "id": "17309312",
+      "version": "D",
+      "title": "17309312",
+      "image": "POOL_45092612A1.TIF_.jpg",
+      "partCount": 13,
+      "hasDiagram": true
+    },
+    {
+      "id": "27023712",
+      "version": "A",
+      "title": "27023712",
+      "image": "POOL_45135512_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "30713812",
+      "version": "C",
+      "title": "30713812",
+      "image": "POOL_45093812_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "45327412",
+      "version": "A",
+      "title": "45327412",
+      "image": "POOL_45327412_1.TIF_.jpg",
+      "partCount": 44,
+      "hasDiagram": true
+    },
+    {
+      "id": "17309412",
+      "version": "D",
+      "title": "17309412",
+      "image": "POOL_45092612A1.TIF_.jpg",
+      "partCount": 13,
+      "hasDiagram": true
+    },
+    {
+      "id": "27023212",
+      "version": "A",
+      "title": "27023212",
+      "image": "POOL_44250912_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "30713912",
+      "version": "C",
+      "title": "30713912",
+      "image": "POOL_45093712_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "45327512",
+      "version": "A",
+      "title": "45327512",
+      "image": "POOL_45327512_1.TIF_.jpg",
+      "partCount": 43,
+      "hasDiagram": true
+    },
+    {
+      "id": "17309512",
+      "version": "D",
+      "title": "17309512",
+      "image": "POOL_45092612A1.TIF_.jpg",
+      "partCount": 13,
+      "hasDiagram": true
+    },
+    {
+      "id": "27023312",
+      "version": "A",
+      "title": "27023312",
+      "image": "POOL_40368112_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "45327612",
+      "version": "B",
+      "title": "45327612",
+      "image": "POOL_45327612_1.TIF_.jpg",
+      "partCount": 56,
+      "hasDiagram": true
+    },
+    {
+      "id": "27023412",
+      "version": "A",
+      "title": "27023412",
+      "image": "POOL_40368112_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "45367612",
+      "version": "A",
+      "title": "45367612",
+      "image": "POOL_40728612_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "45367712",
+      "version": "A",
+      "title": "45367712",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "39359112",
+      "version": "_",
+      "title": "sheave",
+      "image": "POOL_45093612_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "45330812",
+      "version": "A",
+      "title": "45330812",
+      "image": "POOL_45330812_1.TIF_.jpg",
+      "partCount": 26,
+      "hasDiagram": true
+    },
+    {
+      "id": "21898012",
+      "version": "_",
+      "title": "TELE CYLINDER",
+      "image": "POOL_45314812_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "22344012",
+      "version": "F",
+      "title": "22344012",
+      "image": "POOL_45144712E1.TIF_.jpg",
+      "partCount": 19,
+      "hasDiagram": true
+    },
+    {
+      "id": "16627412",
+      "version": "_",
+      "title": "LOCKING CYLINDER",
+      "image": "POOL_48242112_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "17211012",
+      "version": "B",
+      "title": "SUPPORT INITIATOR",
+      "image": "POOL_45103812_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "16689512",
+      "version": "B",
+      "title": "BRACKET",
+      "image": "POOL_45103912_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "17218012",
+      "version": "G",
+      "title": "17218012",
+      "image": "POOL_45103412G1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "16685512",
+      "version": "A",
+      "title": "PIN-LOCKING CYLINDER",
+      "image": "POOL_45103512_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "17217912",
+      "version": "_",
+      "title": "PIN-LOCKING CYLINDER",
+      "image": "POOL_48242212_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "22717412",
+      "version": "_",
+      "title": "BRACKET",
+      "image": "POOL_40368512_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "22444312",
+      "version": "A",
+      "title": "BRACKET",
+      "image": "POOL_40369112_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "45311912",
+      "version": "B",
+      "title": "45311912",
+      "image": "POOL_45311912B1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "27422112",
+      "version": "B",
+      "title": "27422112",
+      "image": "POOL_45312312B1.TIF_.jpg",
+      "partCount": 38,
+      "hasDiagram": true
+    },
+    {
+      "id": "27550612",
+      "version": "_",
+      "title": "SIDE MARKER LAMP",
+      "image": "POOL_40670412_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "28665312",
+      "version": "A",
+      "title": "28665312",
+      "image": "POOL_45332912A1.TIF_.jpg",
+      "partCount": 25,
+      "hasDiagram": true
+    },
+    {
+      "id": "45278912",
+      "version": "A",
+      "title": "45278912",
+      "image": "POOL_45278912A1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "13348912",
+      "version": "A",
+      "title": "LENGTH TRANSMITTER",
+      "image": null,
+      "partCount": 4,
+      "hasDiagram": false
+    },
+    {
+      "id": "45312512",
+      "version": "A",
+      "title": "45312512",
+      "image": "POOL_45312512A1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "28666712",
+      "version": "_",
+      "title": "cable drum SVE",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45312612",
+      "version": "A",
+      "title": "45312612",
+      "image": "POOL_45312612A1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "17307512",
+      "version": "B",
+      "title": "YOKE",
+      "image": "POOL_45108712_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "27423912",
+      "version": "_",
+      "title": "CABLE DRUM",
+      "image": "POOL_47243612_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "30281912",
+      "version": "B",
+      "title": "YOKE CPL",
+      "image": "POOL_45108712_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "65458040",
+      "version": "_",
+      "title": "LIGHT",
+      "image": "POOL_41309212_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "45338312",
+      "version": "A",
+      "title": "45338312",
+      "image": "POOL_45338312A1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "16389812",
+      "version": "A",
+      "title": "MOUNTING LIGHTS BASIC CASE",
+      "image": "POOL_45181312A1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "16389912",
+      "version": "A",
+      "title": "SPOTLIGHT",
+      "image": "POOL_40245112A1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "13064012",
+      "version": "_",
+      "title": "SPOTLIGHT",
+      "image": "POOL_44141912_1.TIF_.jpg",
+      "partCount": 29,
+      "hasDiagram": true
+    },
+    {
+      "id": "02112312",
+      "version": "_",
+      "title": "SPOTLIGHT",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "13303512",
+      "version": "A",
+      "title": "LINE",
+      "image": "POOL_41309512_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "19070012",
+      "version": "_",
+      "title": "SPIN STABILIZER",
+      "image": "POOL_42456112_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "21946112",
+      "version": "A",
+      "title": "21946112",
+      "image": "POOL_45154312A1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "22479012",
+      "version": "A",
+      "title": "22479012",
+      "image": "POOL_45154412A1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "27424612",
+      "version": "A",
+      "title": "ANEMOMETER WITH CABLE",
+      "image": "POOL_40749712_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "29162212",
+      "version": "_",
+      "title": "ANEMOMETER",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "28168112",
+      "version": "A",
+      "title": "Final assenbly hazard light main boom",
+      "image": "POOL_40692912_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "28167212",
+      "version": "_",
+      "title": "OBSTRUCTION LIGHT",
+      "image": "POOL_40685712_1.TIF_.jpg",
+      "partCount": 13,
+      "hasDiagram": true
+    },
+    {
+      "id": "27423412",
+      "version": "_",
+      "title": "LIGHTING",
+      "image": "POOL_46675112_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "28363512",
+      "version": "B",
+      "title": "28363512",
+      "image": "POOL_45093512A1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "27423212",
+      "version": "A",
+      "title": "27423212",
+      "image": "POOL_40669412A1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "55136340",
+      "version": "B",
+      "title": "CUTOFF WEIGHT",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45338412",
+      "version": "A",
+      "title": "45338412",
+      "image": "POOL_45338412_1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "45338512",
+      "version": "A",
+      "title": "45338512",
+      "image": "POOL_45338512_1.TIF_.jpg",
+      "partCount": 35,
+      "hasDiagram": true
+    },
+    {
+      "id": "58917640",
+      "version": "_",
+      "title": "CRANK",
+      "image": "POOL_42332612_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "58917940",
+      "version": "_",
+      "title": "WINCH",
+      "image": "POOL_46071112_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "45338212",
+      "version": "B",
+      "title": "45338212",
+      "image": "POOL_45338212A1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "45078112",
+      "version": "C",
+      "title": "45078112",
+      "image": "POOL_45078112C1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "16568812",
+      "version": "H",
+      "title": "16568812",
+      "image": "POOL_45126512_1.TIF_.jpg",
+      "partCount": 22,
+      "hasDiagram": true
+    },
+    {
+      "id": "17380712",
+      "version": "B",
+      "title": "COVERING",
+      "image": "POOL_43383612_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "21853612",
+      "version": "_",
+      "title": "COVERING",
+      "image": "POOL_43383412_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "16569312",
+      "version": "J",
+      "title": "16569312",
+      "image": "POOL_45126612B1.TIF_.jpg",
+      "partCount": 19,
+      "hasDiagram": true
+    },
+    {
+      "id": "17380512",
+      "version": "B",
+      "title": "COVERING",
+      "image": "POOL_43383212_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "45105712",
+      "version": "A",
+      "title": "45105712",
+      "image": "POOL_45105812A1.TIF_.jpg",
+      "partCount": 15,
+      "hasDiagram": true
+    },
+    {
+      "id": "14742012",
+      "version": "C",
+      "title": "14742012",
+      "image": "POOL_40244012_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "45122312",
+      "version": "_",
+      "title": "MIRROR",
+      "image": "POOL_45122312_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "64884040",
+      "version": "_",
+      "title": "MIRROR",
+      "image": "POOL_40262112_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "66558540",
+      "version": "_",
+      "title": "MIRROR",
+      "image": "POOL_21020712_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "54326112",
+      "version": "_",
+      "title": "Mounting railing",
+      "image": "POOL_45366312_1.TIF_.jpg",
+      "partCount": 15,
+      "hasDiagram": true
+    },
+    {
+      "id": "56477912",
+      "version": "_",
+      "title": "Mounting railing",
+      "image": "POOL_45366412_1.TIF_.jpg",
+      "partCount": 16,
+      "hasDiagram": true
+    },
+    {
+      "id": "45079012",
+      "version": "A",
+      "title": "45079012",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "20230812",
+      "version": "B",
+      "title": "20230812",
+      "image": "POOL_45355112A1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "39896612",
+      "version": "_",
+      "title": "central lubrication parts",
+      "image": "POOL_48363712_1.TIF_.jpg",
+      "partCount": 20,
+      "hasDiagram": true
+    },
+    {
+      "id": "40646812",
+      "version": "_",
+      "title": "LUBE PUMP",
+      "image": "POOL_40646812_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "43063312",
+      "version": "_",
+      "title": "COUPLING",
+      "image": null,
+      "partCount": 4,
+      "hasDiagram": false
+    },
+    {
+      "id": "60614740",
+      "version": "_",
+      "title": "CENTRAL LUBRICATION",
+      "image": "POOL_45096412_1.TIF_.jpg",
+      "partCount": 13,
+      "hasDiagram": true
+    },
+    {
+      "id": "45176912",
+      "version": "E",
+      "title": "45176912",
+      "image": "POOL_45176912D1.TIF_.jpg",
+      "partCount": 16,
+      "hasDiagram": true
+    },
+    {
+      "id": "22000312",
+      "version": "_",
+      "title": "PLC COMPONENTS AC 200-1 SUPERSTRUCTURE",
+      "image": "POOL_45106512A1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "22564612",
+      "version": "B",
+      "title": "22564612",
+      "image": "POOL_42482312_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "42559912",
+      "version": "_",
+      "title": "TRANSMITTER REMOTE CONTROL",
+      "image": "POOL_42559912_1.TIF_.jpg",
+      "partCount": 1,
+      "hasDiagram": true
+    },
+    {
+      "id": "27202412",
+      "version": "_",
+      "title": "PILOT LAMP",
+      "image": "POOL_40631412A1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "27381612",
+      "version": "A",
+      "title": "CAMERA",
+      "image": "POOL_43411012_1.TIF_.jpg",
+      "partCount": 13,
+      "hasDiagram": true
+    },
+    {
+      "id": "23276212",
+      "version": "_",
+      "title": "CAMERA HOIST GEAR 1 AC50-1",
+      "image": "POOL_40609912_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "27195012",
+      "version": "_",
+      "title": "BRACKET",
+      "image": "POOL_40609812_1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "27382112",
+      "version": "A",
+      "title": "CAMERA",
+      "image": "POOL_43411112_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "23276312",
+      "version": "_",
+      "title": "23276312",
+      "image": "POOL_43401712_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "29316312",
+      "version": "_",
+      "title": "FA Warning light",
+      "image": "POOL_42514912A1.TIF_.jpg",
+      "partCount": 13,
+      "hasDiagram": true
+    },
+    {
+      "id": "27404312",
+      "version": "_",
+      "title": "OVERLOAD WARNING DEVICE",
+      "image": null,
+      "partCount": 4,
+      "hasDiagram": false
+    },
+    {
+      "id": "45105912",
+      "version": "B",
+      "title": "45105912",
+      "image": "POOL_45106012B1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "45140712",
+      "version": "A",
+      "title": "45140712",
+      "image": "POOL_45140712A1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "45293312",
+      "version": "A",
+      "title": "45293312",
+      "image": "POOL_45293312A1.TIF_.jpg",
+      "partCount": 25,
+      "hasDiagram": true
+    },
+    {
+      "id": "45299012",
+      "version": "C",
+      "title": "45299012",
+      "image": "POOL_45299012C1.TIF_.jpg",
+      "partCount": 26,
+      "hasDiagram": true
+    },
+    {
+      "id": "20130212",
+      "version": "C",
+      "title": "20130212",
+      "image": "POOL_45104812C1.TIF_.jpg",
+      "partCount": 21,
+      "hasDiagram": true
+    },
+    {
+      "id": "20252712",
+      "version": "G",
+      "title": "20252712",
+      "image": "POOL_45105012B1.TIF_.jpg",
+      "partCount": 22,
+      "hasDiagram": true
+    },
+    {
+      "id": "22331712",
+      "version": "A",
+      "title": "22331712",
+      "image": "POOL_45175312A1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "13347312",
+      "version": "G",
+      "title": "13347312",
+      "image": "POOL_45104712B1.TIF_.jpg",
+      "partCount": 13,
+      "hasDiagram": true
+    },
+    {
+      "id": "13196712",
+      "version": "_",
+      "title": "JOYSTICK",
+      "image": "POOL_47148412_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "40748812",
+      "version": "_",
+      "title": "Handle",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "55104040",
+      "version": "_",
+      "title": "PUSH-TOGGLE SWITCH",
+      "image": "POOL_48051212_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "28667112",
+      "version": "A",
+      "title": "28667112",
+      "image": "POOL_45140612_1.TIF_.jpg",
+      "partCount": 19,
+      "hasDiagram": true
+    },
+    {
+      "id": "45104912",
+      "version": "B",
+      "title": "45104912",
+      "image": "POOL_45104912B1.TIF_.jpg",
+      "partCount": 22,
+      "hasDiagram": true
+    },
+    {
+      "id": "45199012",
+      "version": "A",
+      "title": "45199012",
+      "image": "POOL_45199012A1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "45302012",
+      "version": "D",
+      "title": "45302012",
+      "image": "POOL_45302012D1.TIF_.jpg",
+      "partCount": 19,
+      "hasDiagram": true
+    },
+    {
+      "id": "45365612",
+      "version": "_",
+      "title": "Batteries",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "45106112",
+      "version": "A",
+      "title": "45106112",
+      "image": "POOL_45106212A1.TIF_.jpg",
+      "partCount": 15,
+      "hasDiagram": true
+    },
+    {
+      "id": "45364912",
+      "version": "_",
+      "title": "Batteries Low Temperature option",
+      "image": "POOL_45364912_1.TIF_.jpg",
+      "partCount": 14,
+      "hasDiagram": true
+    },
+    {
+      "id": "52978040",
+      "version": "_",
+      "title": "MOUNTING ALARM BELL",
+      "image": "POOL_20442712_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "45202012",
+      "version": "F",
+      "title": "45202012",
+      "image": "POOL_45202012E1.TIF_.jpg",
+      "partCount": 33,
+      "hasDiagram": true
+    },
+    {
+      "id": "17285812",
+      "version": "B",
+      "title": "17285812",
+      "image": "POOL_45095712B1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "23099212",
+      "version": "_",
+      "title": "OIL COOLER",
+      "image": "POOL_42440412_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "28058812",
+      "version": "A",
+      "title": "MOUNTING AUXILIARY OIL COOLER",
+      "image": "POOL_45262212_1.TIF_.jpg",
+      "partCount": 16,
+      "hasDiagram": true
+    },
+    {
+      "id": "23303712",
+      "version": "_",
+      "title": "OIL COOLER",
+      "image": "POOL_47081512_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "45119612",
+      "version": "A",
+      "title": "45119612",
+      "image": "POOL_45119612A1.TIF_.jpg",
+      "partCount": 41,
+      "hasDiagram": true
+    },
+    {
+      "id": "55159140",
+      "version": "A",
+      "title": "COUPLER PLUG",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "63540440",
+      "version": "_",
+      "title": "COUPLER PLUG",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45119712",
+      "version": "A",
+      "title": "45119712",
+      "image": "POOL_45119712A1.TIF_.jpg",
+      "partCount": 25,
+      "hasDiagram": true
+    },
+    {
+      "id": "63450740",
+      "version": "_",
+      "title": "FLANGE CONNECTION",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "63540340",
+      "version": "_",
+      "title": "COUPLING SLEEVE",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45119812",
+      "version": "A",
+      "title": "45119812",
+      "image": "POOL_45119812A1.TIF_.jpg",
+      "partCount": 14,
+      "hasDiagram": true
+    },
+    {
+      "id": "00287112",
+      "version": "_",
+      "title": "CONTROL BLOCK",
+      "image": "POOL_41500412_1.TIF_.jpg",
+      "partCount": 31,
+      "hasDiagram": true
+    },
+    {
+      "id": "43012973",
+      "version": "_",
+      "title": "DIRECTIONAL CONTROL VALVE",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "00287212",
+      "version": "_",
+      "title": "CONTROL BLOCK",
+      "image": "POOL_41500312_1.TIF_.jpg",
+      "partCount": 24,
+      "hasDiagram": true
+    },
+    {
+      "id": "45119912",
+      "version": "B",
+      "title": "45119912",
+      "image": "POOL_45119912B1.TIF_.jpg",
+      "partCount": 15,
+      "hasDiagram": true
+    },
+    {
+      "id": "28831312",
+      "version": "_",
+      "title": "Filter",
+      "image": "POOL_48269512_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "28831412",
+      "version": "_",
+      "title": "H.P. FILTER",
+      "image": "POOL_48271212_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "28831612",
+      "version": "_",
+      "title": "Filter",
+      "image": "POOL_48270012_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "45120212",
+      "version": "A",
+      "title": "45120212",
+      "image": "POOL_45120212A1.TIF_.jpg",
+      "partCount": 16,
+      "hasDiagram": true
+    },
+    {
+      "id": "57641740",
+      "version": "_",
+      "title": "FLANGE CONNECTION",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45120312",
+      "version": "B",
+      "title": "45120312",
+      "image": "POOL_45120312B1.TIF_.jpg",
+      "partCount": 37,
+      "hasDiagram": true
+    },
+    {
+      "id": "57641840",
+      "version": "_",
+      "title": "FLANGE CONNECTION",
+      "image": null,
+      "partCount": 4,
+      "hasDiagram": false
+    },
+    {
+      "id": "45120412",
+      "version": "_",
+      "title": "HYDRAULIC - TELEZYLINDER",
+      "image": "POOL_45120412_1.TIF_.jpg",
+      "partCount": 18,
+      "hasDiagram": true
+    },
+    {
+      "id": "02140612",
+      "version": "_",
+      "title": "CONTROL BLOCK",
+      "image": "POOL_42275012_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "45120512",
+      "version": "A",
+      "title": "45120512",
+      "image": "POOL_45120512A1.TIF_.jpg",
+      "partCount": 28,
+      "hasDiagram": true
+    },
+    {
+      "id": "45120712",
+      "version": "A",
+      "title": "45120712",
+      "image": "POOL_45120712A1.TIF_.jpg",
+      "partCount": 26,
+      "hasDiagram": true
+    },
+    {
+      "id": "02143612",
+      "version": "_",
+      "title": "CONTROL BLOCK",
+      "image": "POOL_44192312_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "17488112",
+      "version": "_",
+      "title": "CONTROL BLOCK",
+      "image": "POOL_41725012_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "41228112",
+      "version": "_",
+      "title": "DIRECTIONAL SPOOL VALVE",
+      "image": "POOL_41453612_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "60478240",
+      "version": "_",
+      "title": "FLANGE CONNECTION",
+      "image": "POOL_45285112_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "45120912",
+      "version": "A",
+      "title": "HYDRAULIC SWING OUT CABIN",
+      "image": "POOL_45120912A1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "18977512",
+      "version": "_",
+      "title": "CONTROL BLOCK COUNTERWEIGHT + HW2 + VALV",
+      "image": "POOL_44172212_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "45121312",
+      "version": "B",
+      "title": "45121312",
+      "image": "POOL_45121312B1.TIF_.jpg",
+      "partCount": 20,
+      "hasDiagram": true
+    },
+    {
+      "id": "51563740",
+      "version": "_",
+      "title": "PLATE",
+      "image": "POOL_20738412_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "75662573",
+      "version": "_",
+      "title": "PRESSURE REDUCING VALVE",
+      "image": "POOL_47023412_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "45121412",
+      "version": "A",
+      "title": "45121412",
+      "image": "POOL_45121412A1.TIF_.jpg",
+      "partCount": 15,
+      "hasDiagram": true
+    },
+    {
+      "id": "45121512",
+      "version": "A",
+      "title": "45121512",
+      "image": "POOL_45121512A1.TIF_.jpg",
+      "partCount": 31,
+      "hasDiagram": true
+    },
+    {
+      "id": "45121612",
+      "version": "B",
+      "title": "45121612",
+      "image": "POOL_45121612B1.TIF_.jpg",
+      "partCount": 20,
+      "hasDiagram": true
+    },
+    {
+      "id": "45121712",
+      "version": "B",
+      "title": "45121712",
+      "image": "POOL_45121712B1.TIF_.jpg",
+      "partCount": 22,
+      "hasDiagram": true
+    },
+    {
+      "id": "18979112",
+      "version": "_",
+      "title": "CONTROL BLOCK",
+      "image": "POOL_47159712_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "45122012",
+      "version": "_",
+      "title": "HYDRAULIC - TELECYLINDER, SUPERSTRUCTURE",
+      "image": "POOL_45122012_1.TIF_.jpg",
+      "partCount": 18,
+      "hasDiagram": true
+    },
+    {
+      "id": "45125912",
+      "version": "_",
+      "title": "HYDRAULIC - PIN PULLING EQUIPMENT",
+      "image": "POOL_45125912_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "45141212",
+      "version": "F",
+      "title": "45141212",
+      "image": "POOL_45141212F1.TIF_.jpg",
+      "partCount": 28,
+      "hasDiagram": true
+    },
+    {
+      "id": "55194012",
+      "version": "_",
+      "title": "Control block counterweight",
+      "image": "POOL_41958612_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "41722712",
+      "version": "_",
+      "title": "DIRECTIONAL SPOOL VALVE",
+      "image": "POOL_41707112_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "45166312",
+      "version": "A",
+      "title": "45166312",
+      "image": "POOL_45166312A1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "45166412",
+      "version": "A",
+      "title": "45166412",
+      "image": "POOL_45166412A1.TIF_.jpg",
+      "partCount": 39,
+      "hasDiagram": true
+    },
+    {
+      "id": "63509640",
+      "version": "_",
+      "title": "CONTROL UNIT",
+      "image": "POOL_47122812_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "45265012",
+      "version": "_",
+      "title": "Emergency Control",
+      "image": "POOL_45265012_1.TIF_.jpg",
+      "partCount": 16,
+      "hasDiagram": true
+    },
+    {
+      "id": "45265112",
+      "version": "_",
+      "title": "Emergency Control",
+      "image": "POOL_45265112_1.TIF_.jpg",
+      "partCount": 34,
+      "hasDiagram": true
+    },
+    {
+      "id": "00248012",
+      "version": "_",
+      "title": "HYDRAULIC MOTOR",
+      "image": "POOL_45265212A1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "16036740",
+      "version": "_",
+      "title": "FLANGE CONNECTION",
+      "image": null,
+      "partCount": 4,
+      "hasDiagram": false
+    },
+    {
+      "id": "49079640",
+      "version": "_",
+      "title": "COUPLING SLEEVE",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "49079740",
+      "version": "_",
+      "title": "COUPLER PLUG",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45176612",
+      "version": "B",
+      "title": "45176612",
+      "image": "POOL_45176612B1.TIF_.jpg",
+      "partCount": 21,
+      "hasDiagram": true
+    },
+    {
+      "id": "45201812",
+      "version": "_",
+      "title": "HYDRAULIC - PUMP 29",
+      "image": "POOL_45201812_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "45201912",
+      "version": "_",
+      "title": "HYDRAULIC - PUMP 16",
+      "image": "POOL_45201912_1.TIF_.jpg",
+      "partCount": 13,
+      "hasDiagram": true
+    },
+    {
+      "id": "45202112",
+      "version": "_",
+      "title": "HYDRAULIC - PUMP 10",
+      "image": "POOL_45202112_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "45202212",
+      "version": "_",
+      "title": "HYDRAULIC - PUMP 18",
+      "image": "POOL_45202212_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "45202312",
+      "version": "_",
+      "title": "HYDRAULIC - PUMP 40",
+      "image": "POOL_45202312_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "45203312",
+      "version": "_",
+      "title": "HYDRAULIC - PST-LINES",
+      "image": "POOL_45203312_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "45203812",
+      "version": "_",
+      "title": "HYDRAULIC - L-LINES",
+      "image": "POOL_45203812_1.TIF_.jpg",
+      "partCount": 14,
+      "hasDiagram": true
+    },
+    {
+      "id": "45203912",
+      "version": "_",
+      "title": "HYDRAULIC-SUPERSTRUCTURE LOCKING DEVIC",
+      "image": "POOL_45203912_1.TIF_.jpg",
+      "partCount": 19,
+      "hasDiagram": true
+    },
+    {
+      "id": "13216712",
+      "version": "_",
+      "title": "DIRECTIONAL SEAT VALVE",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "45266712",
+      "version": "_",
+      "title": "Connection Block - Emergency Control",
+      "image": "POOL_45266712_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "45307812",
+      "version": "_",
+      "title": "Mounting - Hydraulic Oil Tank",
+      "image": "POOL_45307812_1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "16660612",
+      "version": "K",
+      "title": "16660612",
+      "image": "POOL_45082112B1.TIF_.jpg",
+      "partCount": 55,
+      "hasDiagram": true
+    },
+    {
+      "id": "17230512",
+      "version": "E",
+      "title": "17230512",
+      "image": "POOL_45094512A1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "28830912",
+      "version": "_",
+      "title": "Return oil filter RFM BN/HC 600 BK 2.0",
+      "image": "POOL_48270812_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "28831112",
+      "version": "_",
+      "title": "AERATION FILTER",
+      "image": "POOL_48267812_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "62173840",
+      "version": "_",
+      "title": "BALL VALVE",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45203512",
+      "version": "A",
+      "title": "45203512",
+      "image": "POOL_45203512_1.TIF_.jpg",
+      "partCount": 19,
+      "hasDiagram": true
+    },
+    {
+      "id": "45298012",
+      "version": "B",
+      "title": "45298012",
+      "image": "POOL_45298012_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "45110912",
+      "version": "A",
+      "title": "45110912",
+      "image": "POOL_45105312A1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "45199112",
+      "version": "_",
+      "title": "GLAZING",
+      "image": "POOL_45199112_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "42431112",
+      "version": "_",
+      "title": "DOOR PANE",
+      "image": "POOL_42431112_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "45261312",
+      "version": "_",
+      "title": "MOUNTING FRONT PANE",
+      "image": "POOL_45261312_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "47164712",
+      "version": "_",
+      "title": "MOUNTING REAR PANE",
+      "image": "POOL_47164712_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "45199212",
+      "version": "_",
+      "title": "SUN PROTECTION",
+      "image": "POOL_45199212_1.TIF_.jpg",
+      "partCount": 15,
+      "hasDiagram": true
+    },
+    {
+      "id": "45199312",
+      "version": "_",
+      "title": "MOUNTING DOOR",
+      "image": "POOL_45199312_1.TIF_.jpg",
+      "partCount": 16,
+      "hasDiagram": true
+    },
+    {
+      "id": "47131712",
+      "version": "_",
+      "title": "DOOR",
+      "image": "POOL_47131712_1.TIF_.jpg",
+      "partCount": 22,
+      "hasDiagram": true
+    },
+    {
+      "id": "45199412",
+      "version": "A",
+      "title": "45199412",
+      "image": "POOL_45199412A1.TIF_.jpg",
+      "partCount": 23,
+      "hasDiagram": true
+    },
+    {
+      "id": "45199512",
+      "version": "_",
+      "title": "WIPER EQUIPMENT",
+      "image": "POOL_45199512_1.TIF_.jpg",
+      "partCount": 17,
+      "hasDiagram": true
+    },
+    {
+      "id": "45040112",
+      "version": "_",
+      "title": "WIPER EQUIPMENT",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45040612",
+      "version": "_",
+      "title": "CASE",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45216812",
+      "version": "A",
+      "title": "45216812",
+      "image": "POOL_45216812A1.TIF_.jpg",
+      "partCount": 26,
+      "hasDiagram": true
+    },
+    {
+      "id": "45297912",
+      "version": "A",
+      "title": "45297912",
+      "image": "POOL_45297912A1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "30499012",
+      "version": "B",
+      "title": "30499012",
+      "image": "POOL_45105412_1.TIF_.jpg",
+      "partCount": 30,
+      "hasDiagram": true
+    },
+    {
+      "id": "30473412",
+      "version": "A",
+      "title": "COOLANT HEATER",
+      "image": "POOL_20685712_1.TIF_.jpg",
+      "partCount": 31,
+      "hasDiagram": true
+    },
+    {
+      "id": "46020512",
+      "version": "_",
+      "title": "HEATER, BASIC ASSY.",
+      "image": "POOL_41597012_1.TIF_.jpg",
+      "partCount": 28,
+      "hasDiagram": true
+    },
+    {
+      "id": "45175612",
+      "version": "_",
+      "title": "AIR CONDITION - SUPERSTRUCTURE",
+      "image": "POOL_45175612_1.TIF_.jpg",
+      "partCount": 13,
+      "hasDiagram": true
+    },
+    {
+      "id": "20133312",
+      "version": "_",
+      "title": "AIR CONDITIONING UNIT",
+      "image": "POOL_40534112B1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "20133512",
+      "version": "_",
+      "title": "CONDENSER",
+      "image": "POOL_40531412_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "44188112",
+      "version": "_",
+      "title": "AIR CONDITIONING COMPRESSOR",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "56987112",
+      "version": "_",
+      "title": "GAS HEATING",
+      "image": "POOL_43381812_1.TIF_.jpg",
+      "partCount": 14,
+      "hasDiagram": true
+    },
+    {
+      "id": "45298112",
+      "version": "A",
+      "title": "45298112",
+      "image": "POOL_45298112A1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "20128812",
+      "version": "_",
+      "title": "SEAT SUPPORT",
+      "image": "POOL_40523012_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "56981912",
+      "version": "_",
+      "title": "SEAT CUSHION",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "56982512",
+      "version": "_",
+      "title": "SEAT CUSHION",
+      "image": "POOL_47402712_1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "47402312",
+      "version": "_",
+      "title": "CUSHION ASSY.",
+      "image": "POOL_47402312_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "47402412",
+      "version": "_",
+      "title": "REAR PART",
+      "image": "POOL_47402412_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "47402512",
+      "version": "_",
+      "title": "FRAME",
+      "image": "POOL_47402512_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "40521712",
+      "version": "_",
+      "title": "ADJUSTMENT",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45298212",
+      "version": "_",
+      "title": "Mirror",
+      "image": "POOL_45298212_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "47182412",
+      "version": "_",
+      "title": "INSULATION HANDLE",
+      "image": "POOL_47182412_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "60467740",
+      "version": "B",
+      "title": "CYLINDER",
+      "image": "POOL_20645112_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "45206212",
+      "version": "A",
+      "title": "45206212",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "16180512",
+      "version": "C",
+      "title": "16180512",
+      "image": "POOL_45104512_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "16181812",
+      "version": "A",
+      "title": "Cylinder",
+      "image": "POOL_46067012A1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "46069612",
+      "version": "_",
+      "title": "BRAKE VALVE",
+      "image": "POOL_45285212_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "45125612",
+      "version": "_",
+      "title": "MOUNTING - MAIN BOOM",
+      "image": "POOL_45125612_1.TIF_.jpg",
+      "partCount": 38,
+      "hasDiagram": true
+    },
+    {
+      "id": "45206812",
+      "version": "D",
+      "title": "45206812",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "45319612",
+      "version": "_",
+      "title": "MOUNTING HOIST GEAR",
+      "image": "POOL_45319612_1.TIF_.jpg",
+      "partCount": 25,
+      "hasDiagram": true
+    },
+    {
+      "id": "14874712",
+      "version": "_",
+      "title": "HYDR. MOTOR",
+      "image": "POOL_41327512_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "41605512",
+      "version": "_",
+      "title": "TRANSMISSION",
+      "image": "POOL_41605512_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "14874912",
+      "version": "_",
+      "title": "Rope socket",
+      "image": "POOL_48391412_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "22508312",
+      "version": "B",
+      "title": "22508312",
+      "image": "POOL_45286112_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "24090512",
+      "version": "_",
+      "title": "HOIST GEAR WITH ROPE",
+      "image": "POOL_45080312_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "24090612",
+      "version": "_",
+      "title": "HOIST GEAR",
+      "image": "POOL_21040012_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "42061912",
+      "version": "A",
+      "title": "BEARING BUSH",
+      "image": "POOL_21040312_1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "45074912",
+      "version": "A",
+      "title": "ROPE DRUM",
+      "image": "POOL_21040212_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "45075012",
+      "version": "A",
+      "title": "OIL LEVEL GAUGE",
+      "image": "POOL_21040512_1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "45075112",
+      "version": "A",
+      "title": "DISC BRAKE",
+      "image": "POOL_21040412_1.TIF_.jpg",
+      "partCount": 24,
+      "hasDiagram": true
+    },
+    {
+      "id": "17126040",
+      "version": "_",
+      "title": "SCREW PLUG",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "45207812",
+      "version": "_",
+      "title": "BUILT-IN GEAR",
+      "image": "POOL_45207812_1.TIF_.jpg",
+      "partCount": 45,
+      "hasDiagram": true
+    },
+    {
+      "id": "45319712",
+      "version": "_",
+      "title": "MOUNTING HOIST GEAR 2",
+      "image": "POOL_45319712_1.TIF_.jpg",
+      "partCount": 24,
+      "hasDiagram": true
+    },
+    {
+      "id": "28822312",
+      "version": "B",
+      "title": "HOIST GEAR 2",
+      "image": "POOL_45319812_1.TIF_.jpg",
+      "partCount": 51,
+      "hasDiagram": true
+    },
+    {
+      "id": "17463012",
+      "version": "_",
+      "title": "ELECTRIC PARTS",
+      "image": "POOL_45136712_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "61240240",
+      "version": "_",
+      "title": "HOIST LIMIT SWITCH",
+      "image": "POOL_43380312_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "17424312",
+      "version": "A",
+      "title": "HOIST LIMIT SWITCH",
+      "image": "POOL_48063112A1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "45212912",
+      "version": "_",
+      "title": "SLEW GEAR / SLEW RING",
+      "image": "POOL_45212912_1.TIF_.jpg",
+      "partCount": 22,
+      "hasDiagram": true
+    },
+    {
+      "id": "17325012",
+      "version": "A",
+      "title": "17325012",
+      "image": "POOL_45095412_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "14872912",
+      "version": "_",
+      "title": "HYDRAULIC ENGINE",
+      "image": "POOL_41327512_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "41319012",
+      "version": "_",
+      "title": "POWER UNIT",
+      "image": "POOL_41319012_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "22765112",
+      "version": "_",
+      "title": "SLEW GEAR",
+      "image": "POOL_41535112_1.TIF_.jpg",
+      "partCount": 67,
+      "hasDiagram": true
+    },
+    {
+      "id": "45173712",
+      "version": "_",
+      "title": "LOCKING, SLEW GEAR BRAKE",
+      "image": "POOL_45173712_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "60614040",
+      "version": "A",
+      "title": "60614040",
+      "image": "POOL_45229912_1.TIF_.jpg",
+      "partCount": 18,
+      "hasDiagram": true
+    },
+    {
+      "id": "45267012",
+      "version": "A",
+      "title": "45267012",
+      "image": "POOL_45267012A1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "16569412",
+      "version": "A",
+      "title": "16569412",
+      "image": "POOL_45099012_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "16569212",
+      "version": "C",
+      "title": "EXHAUST SYSTEM",
+      "image": "POOL_45099112_1.TIF_.jpg",
+      "partCount": 11,
+      "hasDiagram": true
+    },
+    {
+      "id": "17300412",
+      "version": "G",
+      "title": "17300412",
+      "image": "POOL_45096712A1.TIF_.jpg",
+      "partCount": 16,
+      "hasDiagram": true
+    },
+    {
+      "id": "00050512",
+      "version": "_",
+      "title": "AIR FILTER",
+      "image": "POOL_48046912_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "17558812",
+      "version": "_",
+      "title": "AIR FILTER SYSTEM ENGINE-STOP",
+      "image": "POOL_45127512_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "49557040",
+      "version": "_",
+      "title": "VALVE",
+      "image": "POOL_20660512_1.TIF_.jpg",
+      "partCount": 17,
+      "hasDiagram": true
+    },
+    {
+      "id": "31249012",
+      "version": "_",
+      "title": "DIESEL PARTICLE FILTER SYSTEM",
+      "image": "POOL_45126912A1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "45267112",
+      "version": "A",
+      "title": "45267112",
+      "image": "POOL_45267112A1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "27370712",
+      "version": "A",
+      "title": "27370712",
+      "image": "POOL_45097012B1.TIF_.jpg",
+      "partCount": 20,
+      "hasDiagram": true
+    },
+    {
+      "id": "02203212",
+      "version": "_",
+      "title": "PUMP COMBINATION",
+      "image": "POOL_41644012_1.TIF_.jpg",
+      "partCount": 7,
+      "hasDiagram": true
+    },
+    {
+      "id": "41332012",
+      "version": "_",
+      "title": "VARIABLE DISPLACEMENT DOUBLE PUMP",
+      "image": "POOL_41332012_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "41332212",
+      "version": "_",
+      "title": "VARIABLE DISPLACEMENT DOUBLE PUMP",
+      "image": "POOL_41332212_1.TIF_.jpg",
+      "partCount": 15,
+      "hasDiagram": true
+    },
+    {
+      "id": "41332612",
+      "version": "_",
+      "title": "POWER UNIT",
+      "image": "POOL_41332612_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "41332712",
+      "version": "_",
+      "title": "POWER UNIT",
+      "image": "POOL_41332612_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "41332812",
+      "version": "_",
+      "title": "GEAR PUMP",
+      "image": "POOL_41332812_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "41332312",
+      "version": "_",
+      "title": "ADJUSTMENT",
+      "image": "POOL_41332312_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "41333412",
+      "version": "_",
+      "title": "COVER",
+      "image": "POOL_41333412_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "41333512",
+      "version": "_",
+      "title": "MODULATION CONTROL",
+      "image": "POOL_41333512_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "41333812",
+      "version": "_",
+      "title": "SHUTTLE VALVE",
+      "image": "POOL_41333812_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "41615512",
+      "version": "_",
+      "title": "PROPORTIONAL COIL",
+      "image": "POOL_41615512_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "41332412",
+      "version": "_",
+      "title": "FLANGE",
+      "image": "POOL_41332412_1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "41332512",
+      "version": "_",
+      "title": "CONNECTOR PLATE",
+      "image": "POOL_41332512_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "41614412",
+      "version": "_",
+      "title": "VARIABLE DISPLACEMENT PUMP",
+      "image": "POOL_41332112_1.TIF_.jpg",
+      "partCount": 22,
+      "hasDiagram": true
+    },
+    {
+      "id": "17344840",
+      "version": "_",
+      "title": "SCREW PLUG",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "25598540",
+      "version": "_",
+      "title": "SCREW PLUG",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "41182912",
+      "version": "_",
+      "title": "FILTER",
+      "image": "POOL_41296312_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "41189012",
+      "version": "_",
+      "title": "FILTER",
+      "image": "POOL_41296412_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "41188912",
+      "version": "_",
+      "title": "FILTER HEAD",
+      "image": "POOL_44133612_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "41188012",
+      "version": "_",
+      "title": "COLD-START VALVE  WITH FIG-NO.: 401",
+      "image": "POOL_43378912_1.TIF_.jpg",
+      "partCount": 5,
+      "hasDiagram": true
+    },
+    {
+      "id": "41334312",
+      "version": "_",
+      "title": "POWER UNIT",
+      "image": "POOL_41330912_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "41334412",
+      "version": "_",
+      "title": "ADJUSTMENT HYDR.",
+      "image": "POOL_43126612_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "41334512",
+      "version": "_",
+      "title": "CONNECTOR PLATE WITH VALVE",
+      "image": "POOL_41334512_1.TIF_.jpg",
+      "partCount": 12,
+      "hasDiagram": true
+    },
+    {
+      "id": "41335512",
+      "version": "_",
+      "title": "PRESSURE RELIEF VALVE",
+      "image": null,
+      "partCount": 3,
+      "hasDiagram": false
+    },
+    {
+      "id": "41337112",
+      "version": "_",
+      "title": "SHUT DOWN VALVE",
+      "image": null,
+      "partCount": 4,
+      "hasDiagram": false
+    },
+    {
+      "id": "41334712",
+      "version": "_",
+      "title": "MODULATION CONTROL",
+      "image": "POOL_41334712_1.TIF_.jpg",
+      "partCount": 13,
+      "hasDiagram": true
+    },
+    {
+      "id": "41336512",
+      "version": "_",
+      "title": "PISTON WITH NON-RETURN VALVE",
+      "image": "POOL_41336512_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "41614512",
+      "version": "_",
+      "title": "GEAR PUMP KIT",
+      "image": "POOL_41614512_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "41613912",
+      "version": "_",
+      "title": "WEAR PLATE",
+      "image": null,
+      "partCount": 2,
+      "hasDiagram": false
+    },
+    {
+      "id": "41614612",
+      "version": "_",
+      "title": "GEAR PUMP",
+      "image": "POOL_41335612_1.TIF_.jpg",
+      "partCount": 13,
+      "hasDiagram": true
+    },
+    {
+      "id": "41625712",
+      "version": "_",
+      "title": "GEAR PUMP",
+      "image": "POOL_41625712_1.TIF_.jpg",
+      "partCount": 6,
+      "hasDiagram": true
+    },
+    {
+      "id": "19469312",
+      "version": "_",
+      "title": "DIESEL ENGINE",
+      "image": "POOL_45329412_1.TIF_.jpg",
+      "partCount": 19,
+      "hasDiagram": true
+    },
+    {
+      "id": "45329512",
+      "version": "_",
+      "title": "MOUNTING POWER FRAME",
+      "image": "POOL_45329512_1.TIF_.jpg",
+      "partCount": 17,
+      "hasDiagram": true
+    },
+    {
+      "id": "45267212",
+      "version": "_",
+      "title": "Fuel System",
+      "image": "POOL_45267212_1.TIF_.jpg",
+      "partCount": 38,
+      "hasDiagram": true
+    },
+    {
+      "id": "00200012",
+      "version": "_",
+      "title": "PUMP",
+      "image": "POOL_40780312_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "14865012",
+      "version": "B",
+      "title": "FUEL TANK",
+      "image": "POOL_45095512_1.TIF_.jpg",
+      "partCount": 2,
+      "hasDiagram": true
+    },
+    {
+      "id": "45267312",
+      "version": "_",
+      "title": "Cooling System",
+      "image": "POOL_45267312_1.TIF_.jpg",
+      "partCount": 14,
+      "hasDiagram": true
+    },
+    {
+      "id": "45267412",
+      "version": "_",
+      "title": "MOUNTING RADIATOR",
+      "image": "POOL_45267412_1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "17300512",
+      "version": "_",
+      "title": "COOLING SYSTEM",
+      "image": "POOL_44388412_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "45318812",
+      "version": "_",
+      "title": "COUNTERWEIGHTS",
+      "image": "POOL_45318812_1.TIF_.jpg",
+      "partCount": 4,
+      "hasDiagram": true
+    },
+    {
+      "id": "45140912",
+      "version": "F",
+      "title": "45140912",
+      "image": "POOL_45140912F1.TIF_.jpg",
+      "partCount": 8,
+      "hasDiagram": true
+    },
+    {
+      "id": "28080712",
+      "version": "_",
+      "title": "cylinder",
+      "image": "POOL_45270812_1.TIF_.jpg",
+      "partCount": 9,
+      "hasDiagram": true
+    },
+    {
+      "id": "45318912",
+      "version": "_",
+      "title": "COUNTERWEIGHTS, MOUNTING",
+      "image": "POOL_45318912_1.TIF_.jpg",
+      "partCount": 10,
+      "hasDiagram": true
+    },
+    {
+      "id": "45319012",
+      "version": "_",
+      "title": "AUX COUNTERWEIGHTS, MOUNTING",
+      "image": "POOL_45319012_1.TIF_.jpg",
+      "partCount": 3,
+      "hasDiagram": true
+    },
+    {
+      "id": "0",
+      "version": "",
+      "title": "0",
+      "image": null,
+      "partCount": 1,
+      "hasDiagram": false
+    }
+  ]
+}
