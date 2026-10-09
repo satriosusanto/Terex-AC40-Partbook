@@ -1,9 +1,12 @@
 # Keep web assets and JSON as normal Git files.
-# No Git LFS is required for the current TEREX AC40 package because
-# the largest tracked file is well below GitHub's 100 MB normal-file limit.
+# All diagram formats must remain binary to avoid line-ending conversion.
 *.json text eol=lf
 *.html text eol=lf
 *.css text eol=lf
 *.js text eol=lf
 *.md text eol=lf
 *.jpg binary
+*.tif binary
+*.tiff binary
+*.TIF binary
+*.TIFF binary
