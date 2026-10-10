@@ -44,7 +44,7 @@
  .viewerTools{gap:5px}
  .viewerTools button{height:34px;min-width:36px;font-size:15px}
  .viewerTools span{font-size:11px;min-width:38px}
- .viewer{height:min(58vh,560px);min-height:300px;max-height:560px;padding:10px;overscroll-behavior:contain}
+ .viewer{height:min(58vh,620px);height:min(58dvh,620px);min-height:300px;max-height:620px;padding:10px;overscroll-behavior:contain}
  .viewer{touch-action:none}
  .zoomHint{display:inline;color:var(--muted);font-size:9px;white-space:nowrap}
  .canvas{width:max-content}

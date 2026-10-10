@@ -76,7 +76,7 @@ function fitDiagram(){const img=$("diagram"),wrap=$("canvasWrap");if(!img?.natur
  $("zoomLabel").textContent=Math.round(zoom*100)+"%";
 }
 $("zoomIn").onclick=()=>{zoom=Math.min(3,zoom*1.2);applyZoom()};
-$("zoomOut").onclick=()=>{zoom=Math.max(.25,zoom/1.2);applyZoom()};
+$("zoomOut").onclick=()=>{zoom=Math.max(.05,zoom/1.2);applyZoom()};
 $("fitBtn").onclick=fitDiagram;window.addEventListener("resize",()=>{if(current?.image)fitDiagram()});
 $("close").onclick=()=>$("modal").classList.add("hidden");
 $("modal").onclick=e=>{if(e.target.id==="modal")$("modal").classList.add("hidden")};
