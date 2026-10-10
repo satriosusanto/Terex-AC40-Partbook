@@ -242,6 +242,42 @@
 
   installHotspotPartPopup();
 
+  document.addEventListener("error", event => {
+    const image = event.target;
+    if (!(image instanceof HTMLImageElement) || image.id !== "diagram") return;
+    if (!page.classList.contains("ui-ac200") && !page.classList.contains("ui-at15")) return;
+
+    image.style.display = "none";
+    let message = document.querySelector("#empty");
+    if (!message || page.classList.contains("ui-ac200")) {
+      message = document.createElement("div");
+      message.className = "empty diagram-load-error";
+      (document.querySelector("#canvasWrap") ?? image.parentElement).append(message);
+    }
+    const filename = image.getAttribute("src")?.split("/").pop() ?? "";
+    message.classList.add("diagram-load-error");
+    message.textContent = `Diagram could not be loaded${filename ? ` (${filename})` : ""}. Check the connection and select this catalog again.`;
+    message.hidden = false;
+    message.style.display = "grid";
+  }, true);
+
+  document.addEventListener("load", event => {
+    if (!(event.target instanceof HTMLImageElement) || event.target.id !== "diagram") return;
+    event.target.style.display = "";
+    if (page.classList.contains("ui-ac200")) {
+      document.querySelectorAll(".diagram-load-error").forEach(message => message.remove());
+    }
+  }, true);
+
+  if (page.classList.contains("ui-ac200")) {
+    const diagram = document.querySelector("#diagram");
+    if (diagram) {
+      new MutationObserver(() => {
+        document.querySelectorAll(".diagram-load-error").forEach(message => message.remove());
+      }).observe(diagram, { attributes: true, attributeFilter: ["src"] });
+    }
+  }
+
   async function initializeCatalogTree() {
     const source = sidebar.querySelector("#catalogs, #cats");
     if (!source) return;

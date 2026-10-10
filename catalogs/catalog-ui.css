@@ -442,6 +442,13 @@ body.catalog-ui button, body.catalog-ui input { font: inherit; }
   overscroll-behavior: contain;
 }
 .catalog-ui .empty, .catalog-ui #empty { color: var(--muted); }
+.catalog-ui .diagram-load-error {
+  min-width: 100%;
+  min-height: 100%;
+  place-content: center;
+  padding: 24px;
+  text-align: center;
+}
 .catalog-ui .partsCard, .catalog-ui .parts-panel { display: flex; flex-direction: column; }
 .catalog-ui .partsCard > div:not(.tabs), .catalog-ui .tablewrap, .catalog-ui .table-wrap,
 .catalog-ui .tableWrap, .catalog-ui .scroll { min-height: 0; overflow: auto; }
@@ -763,6 +770,7 @@ body.catalog-ui button, body.catalog-ui input { font: inherit; }
   .catalog-ui .footer { display: none; }
   .catalog-ui.ui-ac40 .app { display: block; }
   .catalog-ui.ui-ac100 .layout { display: block; }
+  .catalog-ui.ui-ac250 .layout { display: block; }
   .catalog-ui.ui-ac200 main { display: flex; height: auto; min-height: 0; flex-direction: column; }
   .catalog-ui.ui-ac100 .layout > aside, .catalog-ui.ui-ac200 #sidebar,
   .catalog-ui.ui-at15 main > aside, .catalog-ui.ui-mac25 main > aside {
@@ -787,7 +795,15 @@ body.catalog-ui button, body.catalog-ui input { font: inherit; }
   .catalog-ui.ui-ac200 .results { height: min(55vh, 520px); min-height: 320px; max-height: 55vh; flex: none; overflow: hidden; }
   .catalog-ui.ui-ac200 .tableWrap { min-height: 0; flex: 1; overflow: auto; }
   .catalog-ui.ui-ac250 .layout > main { padding: 0; }
+  .catalog-ui.ui-ac250 .main-head { gap: 8px; }
+  .catalog-ui.ui-ac250 .main-head > div:last-child {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
   .catalog-ui.ui-ac250 .diagram-stage { height: min(56vh, 540px); min-height: 280px; }
+  .catalog-ui.ui-ac250 .parts-panel { min-height: 260px; max-height: 55vh; }
   .catalog-ui.ui-at15 main { display: flex; height: auto; min-height: 0; flex-direction: column; }
   .catalog-ui.ui-at15 .viewer { display: flex; flex-direction: column; gap: 9px; padding: 8px; overflow: visible; background: var(--bg); }
   .catalog-ui.ui-at15 .viewer > .bar { width: 100%; min-height: 48px; flex-wrap: wrap; }
