@@ -69,3 +69,17 @@
  .viewer{height:52vh;min-height:260px}
 }
 @media(prefers-reduced-motion:reduce){.sidebar{transition:none}}
+.treeRoot{margin:5px 0 10px;padding:12px 10px;border-bottom:1px solid var(--line);border-radius:7px}
+.catGroup{position:relative;margin:0 0 5px 7px;border-left:1px solid var(--line)}
+.catGroupHead{display:flex;align-items:center;min-height:40px;gap:5px}
+.treeGroupOpen{flex:1;min-width:0;border:0;background:transparent;color:var(--text);padding:8px 7px;text-align:left;font-weight:800;font-size:12px;cursor:pointer}
+span.treeGroupOpen{cursor:default}
+button.treeGroupOpen:hover{color:var(--accent2)}
+button.treeGroupOpen.active{color:var(--accent2)}
+.treeGroupCount{color:var(--muted);font-size:10px;white-space:nowrap}
+.treeToggle{width:27px;height:27px;border:1px solid var(--line);border-radius:5px;background:var(--card);color:var(--muted);cursor:pointer}
+.treeToggle:hover{border-color:var(--accent);color:var(--text)}
+.catGroupItems{margin-left:9px;padding:2px 0 4px 8px;border-left:1px solid var(--line)}
+.catGroupItems[hidden]{display:none}
+.catGroupItems .cat{padding:8px 8px}
+.dark .treeToggle{background:var(--card);color:var(--muted)}
